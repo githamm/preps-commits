@@ -106,7 +106,7 @@ function loadDataTable() {
 				null,
                 {
                     type: "select",
-                    values: ['Barbecue', 'Breakfast/lunch', 'Brewpub', 'Burgers and more', 'Cafe and Wine Bar', 'Carnivor emporium', 'Chinese noodle shop', 'Contemporary American']
+                    values: ['Mens Golf', 'Baseball', 'Golf', 'Lacrosse', 'Football']
                 },
                 null,
 				null,
