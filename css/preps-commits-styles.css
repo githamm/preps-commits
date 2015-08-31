@@ -388,6 +388,10 @@ img#phone-photo {
     letter-spacing: 1px;
 }
 
+div.rss-panel {
+	height: 825px;
+}
+
 /* ----------------------------- Adverts ----------------------------- */ 
 #adwrapper {
     position:fixed;
