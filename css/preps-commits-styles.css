@@ -94,13 +94,19 @@ h1.main-hed {
   }
 }
 
+th {
+	background-color: rgba(0, 53, 86, 0.3);
+}
+
 h3.subhead-panel {
-    font-family: "Oswald", Arial, sans-serif;
-    font-size: 24px;
-    font-weight: bold;
+    font-family: "Oswald", Arial, sans-serif; /*"Oswald", Arial, sans-serif; */
+    font-size: 28px;
+    font-weight: 700;
     line-height: 29px;
-    color: #808080;
-    margin-bottom: 2px;
+    background-color: rgba(0, 53, 86, 0.95); /* #808080; */
+    padding: 15px 0 15px 0;
+    color: white;
+    text-align: center;
 }
 
 h3.subhead {
