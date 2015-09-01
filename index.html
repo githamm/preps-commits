@@ -36,6 +36,13 @@
     	font-size: 18px;
     	color: rgba(0, 0, 0, .8)
     }
+    img.preps-photo {
+      width: 50%;
+      height: 50%;
+    }
+    span.footable-toggle {
+      font-size: 11px !important;
+    }
     </style>
   </head>
   
@@ -138,7 +145,7 @@
 		      <th data-hide="all">Graduates
 		      <th data-sort-ignore="true" data-hide="all">Commitment type</th>
 		      <th data-sort-ignore="true" data-hide="all">Commitment date</th>
-		      <th data-sort-ignore="true" data-hide="all">&nbsp;</th>
+		      <th data-sort-ignore="true" data-hide="all">Image (if avail)</th>
             </tr>
           </thead>
           <tbody>                    
@@ -330,7 +337,7 @@ jQuery.getJSON(url).success(function(data) {
 }); */
         
       function create_row (item) {
-      var row = $('<tr><td>' + item['Last name'] + '</td><td>' + item['First name'] + '</td><td>' + item['High school'] + '</td><td>' + item['Sport'] + '</td><td>' + item['Position'] + '</td><td>' + item['Height'] + '</td><td>' + item['Weight'] + '</td><td>' + item['College'] + '</td><td>' + item['HS graduation year'] + '</td><td>' + item['Commitment'] + '</td><td>'  + item['Date of commitment'] + '</td><td>' + '<br>' + '<img src="' + item['Upload photo'] + '">' + '</td></tr>');
+      var row = $('<tr><td>' + item['Last name'] + '</td><td>' + item['First name'] + '</td><td>' + item['High school'] + '</td><td>' + item['Sport'] + '</td><td>' + item['Position'] + '</td><td>' + item['Height'] + '</span>' + '</td><td>' + item['Weight'] + '</td><td>' + item['College'] + '</td><td>' + item['HS graduation year'] + '</td><td>' + item['Commitment'] + '</td><td>'  + item['Date of commitment'] + '</td><td>' + '<img class="preps-photo" src="' + item['Upload photo'] + '">' + '</td></tr>');
         return row;
       }
       
