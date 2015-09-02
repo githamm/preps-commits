@@ -11,11 +11,11 @@
     <link rel="stylesheet" type="text/css" href="http://extras.denverpost.com/weather-closures/weather-closures-styles.css" />
     <link rel="stylesheet" href="css/preps-commits-styles.css" type="text/css">
     <link rel="shortcut icon" href="http://extras.mnginteractive.com/live/media/favIcon/dpo/favicon.ico" type="image/x-icon" />
-    
+
     <!-- Google fonts -->
     <link href='https://fonts.googleapis.com/css?family=Alfa+Slab+One' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Oswald:400,700,300' rel='stylesheet' type='text/css'>
-    
+
     <script src="http://extras.denverpost.com/foundation/js/vendor/modernizr.js"></script>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
     <script>
@@ -25,7 +25,8 @@
     <script src="http://extras.denverpost.com/projects/2015/salary-tables/js/footable.sort.js?v=2-0-1" type="text/javascript"></script>
     <script src="http://extras.denverpost.com/projects/2015/salary-tables/js/footable.filter.js?v=2-0-1" type="text/javascript"></script>
     <script src="http://extras.denverpost.com/projects/2015/salary-tables/js/footable.paginate.js?v=2-0-1" type="text/javascript"></script>
-    
+    <script type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js"></script>
+
     <style type="text/css">
     h1 {
     	font-family: 'Alfa Slab One', arial, sans-serif;
@@ -46,9 +47,9 @@
     }
     </style>
   </head>
-  
+
   <body>
-    
+
   <!-- navigation bar -->
   <!-- <div id="header-image"> -->
     <div id="top-bar-margin">
@@ -79,7 +80,7 @@
         </ul>
       </div>
     </div>
-    
+
     <!-- Title and intro -->
     <div class="row">
       <div class="large-12 medium-12 small-12 columns">
@@ -87,7 +88,7 @@
         <p class="intro">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id massa a est tempus interdum sit amet vel nunc. Praesent ut urna nisi. Integer ac eros turpis. In sollicitudin tristique vestibulum. </p>
       </div>
     </div>
-    
+
     <!-- Search and filters -->
     <div class="row">
       <div class="large-4 medium-4 small-12 columns">
@@ -116,18 +117,18 @@
             <option value="academic">Academic </option>
             <option value="adventure">Adventure </option>
             <option value="arts">Arts </option>
-            <option value="general">General </option> 
-            <option value="nature/environment">Nature/Environment </option>                
+            <option value="general">General </option>
+            <option value="nature/environment">Nature/Environment </option>
             <option value="religious">Religious </option>
             <option value="speical needs">Special Needs </option>
-            <option value="sports">Sports </option>                    
+            <option value="sports">Sports </option>
           </select>
           <a href="#clear" class="clear-filter" title="clear filter">[clear]</a>
           <span class="row-count"></span>
         </p>
       </div>
     </div>
-    
+
     <!-- Table -->
     <div class="row">
       <div class="large-12 medium-12 small-12 columns">
@@ -138,7 +139,7 @@
               <th data-toggle="true" data-sort-initial="true">Last name</th>
 		      <th data-hide="phone">First name</th>
 		      <th>High school</th>
-		      <th>Sport</th>                
+		      <th>Sport</th>
 		      <th data-hide="all">Position</th>
 		      <th data-type="numeric" data-hide="all">Height</th>
 		      <th data-type="numeric" data-hide="all">Weight</th>
@@ -149,18 +150,46 @@
 		      <th data-sort-ignore="true" data-hide="all">Image (if avail)</th>
             </tr>
           </thead>
-          <tbody>                    
+          <tbody>
           </tbody>
         </table>
       </div>
     </div>
-    
+
+    <!-- Newsletter signup -->
+    <div class="row">
+      <div class="large-12 medium-12 small-12 columns">
+      <div class="title-bar">NEWSLETTER SIGNUP</div>
+        <div class="panel">
+          <h2>Prep Sports Breaking News</h2>
+          <p>Sign up to get Colorado high school/prep sports breaking news emails, including game scores, injury updates, playoff scores and more.</p>
+            <div class="mj-form">
+              <form action="http://www.denverpostplus.com/app/mailer/" method="post" name="bnpreps" style="margin:0;">
+                <input type="hidden" name="keebler" value="goof111" />
+                <input type="hidden" name="goof111" value="TRUE" />
+                <input type="hidden" name="redirect" id="inputRedirURL" value="" />
+                <input type="hidden" name="id" value="autoadd" />
+                <input type="hidden" name="which" value="bnpreps" />
+                <input type="text" name="name_first" value="Humans: Do Not Use" style="display:none;" />
+                <p style="height:75px;text-align:center;"><input placeholder="Email Address" type="text" name="email_address" maxlength="50" value="" />
+                <input type="submit" name="submit" value="Submit" />
+                </p>
+                <p><em>We promise we won't use your email address for anything else.</em></p>
+                <div class="clear"></div>
+              </form>
+              <script type="text/javascript">
+                document.getElementById('inputRedirURL').value = document.URL;
+              </script>
+        </div>
+      </div>
+    </div>
+
     <!-- RSS feed widgets -->
     <div class="row">
       <!-- denverpost.com/preps rss feed -->
       <div class="large-4 medium-4 small-12 columns">
         <div class="rss-panel"> <!-- use "panel" class for gray background -->
-          <h3 class="subhead-panel">PREPS STORIES</h3>
+          <h3 class="subhead-panel"><a style="text-decoration: none; color: white;" href="http://denverpost.com/preps">PREPS STORIES</a></h3>
           <!-- <hr class="panel-hr"> -->
             <!-- start feedwind code -->
             <script type="text/javascript">
@@ -220,14 +249,14 @@
           <div style="font-size:10px; text-align:center; width:300px;"><a href="http://feed.mikle.com/" target="_blank" style="color:#CCCCCC;">RSS Feed Widget</a>
           <!--Please display the above link in your web page according to Terms of Service.-->
           </div>
-          <!-- end feedwind code -->          
+          <!-- end feedwind code -->
         </div>
       </div>
-        
+
 	  <!-- Prepped blog rss feed -->
 	  <div class="large-4 medium-4 small-12 columns">
 		<div class="rss-panel"> <!-- use "panel" class for gray background -->
-		  <h3 class="subhead-panel">PREPPED BLOG</h3>
+		  <h3 class="subhead-panel"><a style="text-decoration: none; color: white;" href="http://blogs.denverpost.com/preps/">PREPPED BLOG</a></h3>
 		  <!-- <hr class="panel-hr">  -->
  		    <!-- start feedwind code -->
 		    <script type="text/javascript">
@@ -290,7 +319,7 @@
 		  <!-- end feedwind code -->
 		</div>
 	  </div>
-	  
+
 	  <!-- Twitter feed -->
 	  <div class="large-4 medium-4 small-12 columns">
 		<div class="rss-panel"> <!-- use "panel" class for gray background -->
@@ -298,18 +327,19 @@
 		  <!-- <hr class="panel-hr"> -->
 		  <a class="twitter-timeline"
 		    height="755"
-		    href="https://twitter.com/hashtag/copreps" 
+		    href="https://twitter.com/hashtag/copreps"
 		    data-widget-id="420441302690316288">#copreps Tweets</a>
 		  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
 		  </script>
 		</div>
 	  </div>
 	</div>
-	
+
 	<!-- Video -->
 	<div class="row">
-      <div class="large-12 medium-6 small-12 columns">
-		<div id="playerContainer" style="height: 439px; margin-bottom: 15px;"></div>
+      <div class="large-12 medium-12 small-12 columns">
+      <div class="title-bar">VIDEO</div>
+		    <!-- <div id="playerContainer" style="height: 400px; margin-bottom: 15px;"></div> -->
           <!-- <script type="text/javascript" src="https://player.ooyala.com/v3/c8b74daf3c534281bc8ba1914c8e01e7"></script>
             <script type="text/javascript">
               var ooyalaPlayer;
@@ -327,12 +357,86 @@
                 ooyalaPlayer = OO.Player.create('playerContainer', '', playerConfiguration);
               });
             </script> -->
-            <script src='//player.ooyala.com/v3/fce2cf476df14253a15351f1727031b4'></script>
-            
-            <div id='ooyalaplayer' style='width:100%;height:720px'></div><script>OO.ready(function() { OO.Player.create('ooyalaplayer', 'Q5bjI5dzqThSv5DKDdwnQMlZ9W0D3ZF5'); });</script> <noscript><div>Please enable Javascript to watch this video</div></noscript>
+        <script src='//player.ooyala.com/v3/fce2cf476df14253a15351f1727031b4'></script>
+          <div id='ooyalaplayer' style='width:100%;height:546px; margin: 25px 0 25px 0;'></div>
+            <script>OO.ready(function() {
+              OO.Player.create('ooyalaplayer', 'Q5bjI5dzqThSv5DKDdwnQMlZ9W0D3ZF5');
+            });
+            </script>
+            <noscript>
+              <div>Please enable Javascript to watch this video</div>
+            </noscript>
       </div>
     </div>
-    
+
+    <!-- Ads -->
+    <div class="row">
+    <div class="large-10 large-centered medium-12 medium-centered small-12 columns">
+        <div class="row adcubes">
+            <div class="large-6 medium-6 small-12 columns">
+                <div id="div_Cube5" class="adcube-wrap">
+                    <script type='text/javascript'>
+                    googletag.defineSlot('/8013/denverpost.com/Sports', [300,250], 'div_Cube5').addService(googletag.pubads());
+                    googletag.pubads().enableSyncRendering();
+                    googletag.enableServices();
+                    googletag.display('div_Cube5');
+                    </script>
+                </div>
+            </div>
+            <div class="large-6 medium-6 hide-for-small columns">
+                <div id="div_Cube6" class="adcube-wrap">
+                    <script type='text/javascript'>
+                    if ( window.innerWidth >= 660 ) {
+                        googletag.defineSlot('/8013/denverpost.com/Sports', [300,250], 'div_Cube6').addService(googletag.pubads());
+                        googletag.pubads().enableSyncRendering();
+                        googletag.enableServices();
+                        googletag.display('div_Cube6');
+                    }
+                    </script>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+
+    <div id="adwrapper">
+        <a class="boxclose" href="javascript:void(0)" onclick="hideAdManual();"></a>
+        <center>
+        <div id="adframewrapper"></div>
+        </center>
+    </div>
+
+    <hr>
+
+    <div id="footer-whole">
+      <!-- Footer social media buttons -->
+        <div class="row">
+            <div class="large-12 medium-12 small-12 columns">
+                <ul class="post-meta-social-links text-center no-bullet" id="sticky-inner">
+                    <li class="post-meta-social pm-googleplus ho-list">
+                        <a href="javascript:void(0)" onclick="javascript:window.open('http://plus.google.com/share?url=http%3A%2F%2Fhttp://dpo.st%2F1MMr8cm', 'gpluswin', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=1');"><img class="social-icons-footer" src="http://extras.denverpost.com/projects/2014/latino-project/images/social-gplus.png" alt="Share on Google Plus">
+                        </a>
+                    </li>
+                    <li class="post-meta-social pm-twitter ho-list">
+                        <a href="javascript:void(0)" onclick="javascript:window.open('http://twitter.com/share?text=Denver%20Post%20Restaurant%20Review%20Guide&amp;url=http%3A%2F%2Fdpo.st%2F1MMr8cm&amp;via=denverpost', 'twitwin', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=1');"><img class="social-icons-footer" src="http://extras.denverpost.com/projects/2014/latino-project/images/social-twitter.png" alt="Tweet this story">
+                        </a>
+                    </li>
+                    <li class="post-meta-social pm-facebook text-center ho-list">
+                        <a href="javascript:void(0)" onclick="javascript:window.open('http://www.facebook.com/sharer/sharer.php?s=100&amp;p[url]=http%3A%2F%2Fdpo.st%2F1MMr8cm&amp;p[images][1]=&amp;p[title]=Denver%20Post%20Restaurant%20Review%20Guide\&amp;%20As&amp;p[summary]=A+map+and+sortable+table+of+restaurants+reviewed+by+The+Denver+Post', 'fbwin', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=1');"><img class="social-icons-footer" src="http://extras.denverpost.com/projects/2014/latino-project/images/social-facebook.png" alt="Facebook">
+                        </a>
+                    </li>
+                    <div class="clear"></div>
+                </ul>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="large-12 medium-12 small-12 columns">
+            <p style="font-family:'Oswald', Arial, sans-serif; text-align: right">Copyright &copy; 2015, The Denver Post</p>
+            </div>
+        </div>
+        </div>
+
     <script>
       $('table').footable();
       /* var data = [
@@ -354,24 +458,24 @@
     "Phone number":"3039022442",
     "Twitter handle":""
   }] */
-  
+
   /* var url = 'https://spreadsheets.google.com/feeds/list/1HI7CX63O95hgj9KXUbxrEePMdFg65o1NltxKxJVcGqg/od6/public/values?alt=json-in-script&callback=create_row';
 jQuery.getJSON(url).success(function(data) {
-    console.log(data); 
+    console.log(data);
 }).error(function(message) {
-    console.error('error' + message); 
+    console.error('error' + message);
 }).complete(function() {
-    console.log('completed!'); 
+    console.log('completed!');
 }); */
-        
+
       function create_row (item) {
-      var row = $('<tr><td>' + item['Last name'] + '</td><td>' + item['First name'] + '</td><td>' + item['High school'] + '</td><td>' + item['Sport'] + '</td><td>' + item['Position'] + '</td><td>' + item['Height'] + '</span>' + '</td><td>' + item['Weight'] + '</td><td>' + item['College'] + '</td><td>' + item['HS graduation year'] + '</td><td>' + item['Commitment'] + '</td><td>'  + item['Date of commitment'] + '</td><td>' + '<img class="preps-photo" src="' + item['Upload photo'] + '">' + '</td></tr>');
+      var row = $('<tr><td>' + item['Last name'] + '</td><td>' + item['First name'] + '</td><td>' + item['High school'] + '</td><td>' + item['Sport'] + '</td><td>' + item['Position'] + '</td><td>' + item['Height'] + '</span>' + '</td><td>' + item['Weight'] + '</td><td>' + item['College'] + '</td><td>' + item['HS graduation year'] + '</td><td>' + item['Commitment'] + '</td><td>'  + item['Date of commitment'] + '</td></tr>');
         return row;
       }
-      
-      
+
+
           //var footable = $('#modality').footable().data('footable');
-      
+
       $.ajax({
         url : 'preps-data.js',
         dataType : 'json',
@@ -380,11 +484,11 @@ jQuery.getJSON(url).success(function(data) {
 			  var row = create_row(item);
 			  $('table tbody').append(row);
 		});
-		
+
 		$('table').trigger('footable_initialize');
 	  }
 	  });
-		
+
 		$(function () {
 		  $('table').footable({ bookmarkable: { enabled: true }}).bind({
 		    'footable_filtering': function (e) {
@@ -422,14 +526,14 @@ jQuery.getJSON(url).success(function(data) {
 		});
       });
       </script>
-        
+
    <!-- <script src="http://extras.denverpost.com/foundation/js/vendor/jquery.js"></script>
     <script src="http://extras.denverpost.com/foundation/js/foundation.min.js"></script>
-  
+
     <script>
        $(document).foundation();
     </script> -->
-    
+
     <script>
       //Chartbeat stuff
       _sf_async_config.title = "Colorado preps college commitments - The Denver Post";
