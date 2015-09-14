@@ -85,7 +85,7 @@
     <div class="row">
       <div class="large-12 medium-12 small-12 columns">
         <h1>Colorado preps college commits</h1>
-        <p class="intro">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id massa a est tempus interdum sit amet vel nunc. Praesent ut urna nisi. Integer ac eros turpis. In sollicitudin tristique vestibulum. </p>
+        <p class="intro">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id massa a est tempus interdum sit amet vel nunc. Praesent ut urna nisi. Integer ac eros turpis. In sollicitudin tristique vestibulum.</p>
       </div>
     </div>
 
@@ -156,10 +156,10 @@
       </div>
     </div>
 
-    <!-- Newsletter signup -->
     <div class="row">
-      <div class="large-12 medium-12 small-12 columns">
-      <div class="title-bar">NEWSLETTER SIGNUP</div>
+      <!-- Email newsletter signup -->
+      <div class="large-6 medium-6 small-12 columns">
+      <div class="title-bar">NEWSLETTER SIGN-UP</div>
         <div class="panel">
           <h2>Prep Sports Breaking News</h2>
           <p>Sign up to get Colorado high school/prep sports breaking news emails, including game scores, injury updates, playoff scores and more.</p>
@@ -180,7 +180,25 @@
               <script type="text/javascript">
                 document.getElementById('inputRedirURL').value = document.URL;
               </script>
+            </div>
         </div>
+      </div>
+
+      <!-- College commit form modal -->
+      <div class="large-6 medium-6 small-12 columns">
+        <div class="title-bar">COLLEGE COMMITMENT</div>
+          <div class="panel">
+          <h2>Submit College Commitment Form</h2>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id massa a est tempus interdum sit amet vel nunc. Praesent ut urna nisi. Integer ac eros turpis. In sollicitudin tristique vestibulum.</p>
+          <a href="#" data-reveal-id="myModal">Click Me For A Modal</a>
+            <div id="myModal" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+            <h2 id="modalTitle">Awesome. I have it.</h2>
+            <p class="lead">Your couch.  It is mine.</p>
+            <p>I'm a cool paragraph that lives inside of an even cooler modal. Wins!</p>
+            <script src="http://form.jotform.us/jsform/50716566158158"></script>
+            <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+            </div>
+          </div>
       </div>
     </div>
 
@@ -255,8 +273,75 @@
 
 	  <!-- Prepped blog rss feed -->
 	  <div class="large-4 medium-4 small-12 columns">
+		  <div class="rss-panel"> <!-- use "panel" class for gray background -->
+		    <h3 class="subhead-panel"><a style="text-decoration: none; color: white;" href="http://blogs.denverpost.com/preps/">PREPPED BLOG</a></h3>
+		    <!-- <hr class="panel-hr">  -->
+ 		      <!-- start feedwind code -->
+		      <script type="text/javascript">
+		        document.write('\x3Cscript type="text/javascript" src="' + ('https:' == document.location.protocol ? 'https://' : 'http://') + 'feed.mikle.com/js/rssmikle.js">\x3C/script>');
+		      </script>
+		      <script>
+		        (function() {
+		          var params = {
+		            rssmikle_url: "http://blogs.denverpost.com/preps/feed/",
+		            rssmikle_frame_width: "100%",
+		            rssmikle_frame_height: "750",
+		            frame_height_by_article: "0",
+		            rssmikle_target: "_blank",
+		            rssmikle_font: "Helvetica, Arial, sans-serif",
+		            rssmikle_font_size: "12",
+		            rssmikle_border: "on",
+		            responsive: "off",
+		            rssmikle_css_url: "",
+		            text_align: "left",
+		            text_align2: "left",
+		            corner: "off",
+		            scrollbar: "on",
+		            autoscroll: "on",
+		            scrolldirection: "up",
+		            scrollstep: "5",
+		            mcspeed: "20",
+		            sort: "Off",
+		            rssmikle_title: "off",
+		            rssmikle_title_sentence: "",
+		            rssmikle_title_link: "",
+		            rssmikle_title_bgcolor: "#000000",
+		            rssmikle_title_color: "#FFFFFF",
+		            rssmikle_title_bgimage: "",
+  		          rssmikle_item_bgcolor: "", //#F2F2F2
+  		          rssmikle_item_bgimage: "",
+  		          rssmikle_item_title_length: "100",
+  		          rssmikle_item_title_color: "#008CBA",
+  		          rssmikle_item_border_bottom: "on",
+  		          rssmikle_item_description: "on",
+  		          item_link: "off",
+  		          rssmikle_item_description_length: "150",
+  		          rssmikle_item_description_color: "#666666",
+  		          rssmikle_item_date: "gl1",
+  		          rssmikle_timezone: "Etc/GMT",
+  		          datetime_format: "%b %e, %Y %l:%M:%S %p",
+  		          item_description_style: "text+tn",
+  		          item_thumbnail: "crop",
+  		          item_thumbnail_selection: "auto",
+  		          article_num: "15",
+  		          rssmikle_item_podcast: "off",
+  		          keyword_inc: "",
+  		          keyword_exc: ""
+  		        };
+  		          feedwind_show_widget_iframe(params);
+  		        })();
+  		    </script>
+  		  <div style="font-size:10px; text-align:center; width:300px;"><a href="http://feed.mikle.com/" target="_blank" style="color:#CCCCCC;">RSS Feed Widget</a>
+  		  <!--Please display the above link in your web page according to Terms of Service.-->
+		    </div>
+		    <!-- end feedwind code -->
+		  </div>
+	  </div>
+
+	  <!-- DPTV Yo Preps rss feed -->
+	  <div class="large-4 medium-4 small-12 columns">
 		<div class="rss-panel"> <!-- use "panel" class for gray background -->
-		  <h3 class="subhead-panel"><a style="text-decoration: none; color: white;" href="http://blogs.denverpost.com/preps/">PREPPED BLOG</a></h3>
+		  <h3 class="subhead-panel"><a style="text-decoration: none; color: white;" href="http://blogs.denverpost.com/preps/">DPTV | YO PREPS</a></h3>
 		  <!-- <hr class="panel-hr">  -->
  		    <!-- start feedwind code -->
 		    <script type="text/javascript">
@@ -265,7 +350,7 @@
 		    <script>
 		      (function() {
 		        var params = {
-		          rssmikle_url: "http://blogs.denverpost.com/preps/feed/",
+		          rssmikle_url: "http://dptv.denverpost.com/category/sports/yo-preps/feed/",
 		          rssmikle_frame_width: "100%",
 		          rssmikle_frame_height: "750",
 		          frame_height_by_article: "0",
@@ -318,13 +403,13 @@
 		  </div>
 		  <!-- end feedwind code -->
 		</div>
-	  </div>
+	</div>
 
-	  <!-- Twitter feed -->
+	  <!-- Twitter feed
 	  <div class="large-4 medium-4 small-12 columns">
-		<div class="rss-panel"> <!-- use "panel" class for gray background -->
+		<div class="rss-panel"> <!-- use "panel" class for gray background
 		  <h3 class="subhead-panel">#COPREPS | TWITTER</h3>
-		  <!-- <hr class="panel-hr"> -->
+		  <!-- <hr class="panel-hr">
 		  <a class="twitter-timeline"
 		    height="755"
 		    href="https://twitter.com/hashtag/copreps"
@@ -333,7 +418,7 @@
 		  </script>
 		</div>
 	  </div>
-	</div>
+	</div> -->
 
 	<!-- Instansive widget -->
   <div class="row">
@@ -535,7 +620,12 @@ jQuery.getJSON(url).success(function(data) {
       });
       </script>
 
-   <!-- <script src="http://extras.denverpost.com/foundation/js/vendor/jquery.js"></script>
+    <script src="http://extras.denverpost.com/foundation/js/foundation.min.js"></script>
+    <script>
+       $(document).foundation();
+    </script>
+
+    <!-- <script src="http://extras.denverpost.com/foundation/js/vendor/jquery.js"></script>
     <script src="http://extras.denverpost.com/foundation/js/foundation.min.js"></script>
 
     <script>
