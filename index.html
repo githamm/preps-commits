@@ -50,7 +50,7 @@
     <!-- GOOGLE FONTS -->
     <link href='https://fonts.googleapis.com/css?family=Alfa+Slab+One' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Oswald:400,700,300' rel='stylesheet' type='text/css'>
-    
+
     <!-- SCRIPTS -->
     <script src="http://extras.denverpost.com/foundation/js/vendor/modernizr.js"></script>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
@@ -100,7 +100,7 @@
     <div class="row">
       <div class="large-12 medium-12 small-12 columns">
         <h1>Colorado preps college commits</h1>
-        <p class="intro">Here is a database of Colorado high school student-athletes who have pledged to participate in college athletics. Filter search results by sport, graduation year or type in a specific keyword, such as name or high school.  To submit a college commitment, please <a href="http://form.jotform.us/form/50716566158158">fill out the form</a> and attach a photo of the athlete.</p>
+        <p class="intro">This is a database of Colorado high school student-athletes who have committed to participate in college athletics. Filter search results by sport, graduation year or type in a specific keyword, such as name or high school.  To submit a college commitment, please <a href="http://form.jotform.us/form/50716566158158">fill out the form</a> and attach a photo of the athlete.</p>
       </div>
     </div>
 
@@ -113,15 +113,15 @@
         <p><span style="font-weight: bold">Sport</span>
           <select id="sport" class="filter-type">
             <option></option>
-            <option value="baseball">Baseball </option>
-            <option value="basketball-boys">Basketball (boys) </option>
-            <option value="basketball-girls">Basketball (girls) </option>
-            <option value="football">Football </option>
+            <option value="baseball">Baseball</option>
+            <option value="basketball-boys">Basketball (boys)</option>
+            <option value="basketball-girls">Basketball (girls)</option>
+            <option value="football">Football</option>
             <option value="golf-boys">Golf (boys)</option>
-            <option value="golf-girls">Golf (girls) </option>
+            <option value="golf-girls">Golf (girls)</option>
             <option value="lacrosse-boys">Lacrosse (boys)</option>
             <option value="lacrosse-girls">Lacrosse (girls)</option>
-            <option value="volleyball">Volleyball </option>
+            <option value="volleyball">Volleyball</option>
           </select>
           <a href="#clear" class="clear-filter" title="clear filter">[clear]</a>
           <span class="row-count"></span>
@@ -143,26 +143,33 @@
     <!-- TABLE -->
     <div class="row">
       <div class="large-12 medium-12 small-12 columns">
-        <table id="preps-table" class="table demo" data-filter="#filter" data-filter-text-only="false" data-page-size="600" "footable table toggle-circle-filled">
+        <table class="table demo" data-filter="#filter" data-page-size="600">
         <!-- <table id="seller-table" class="table demo" data-filter="#filter" data-filter-text-only="true" data-page-size="30"> -->
           <thead>
             <tr>
               <th data-toggle="true" data-sort-initial="true">Last name</th>
-		      <th data-hide="phone">First name</th>
-		      <th>High school</th>
-		      <th>Sport</th>
-		      <th data-hide="all">Position</th>
-		      <th data-type="numeric" data-hide="all">Height</th>
-		      <th data-type="numeric" data-hide="all">Weight</th>
-		      <th data-hide="phone">College</th>
-		      <th data-hide="all">Graduates
-		      <th data-sort-ignore="true" data-hide="all">Commitment type</th>
-		      <th data-sort-ignore="true" data-hide="all">Commitment date</th>
-		      <th data-sort-ignore="true" data-hide="all">Image (if avail)</th>
+    		      <th data-hide="phone">First name</th>
+    		      <th>High school</th>
+    		      <th>Sport</th>
+    		      <th data-hide="all">Position</th>
+    		      <th data-type="numeric" data-hide="all">Height</th>
+    		      <th data-type="numeric" data-hide="all">Weight</th>
+    		      <th data-hide="phone">College</th>
+    		      <th data-type="numeric" data-hide="all">Graduates
+    		      <th data-sort-ignore="true" data-hide="all">Commitment type</th>
+    		      <th data-sort-ignore="true" data-hide="all">Commitment date</th>
+    		      <th data-sort-ignore="true" data-hide="all">Image (if avail)</th>
             </tr>
           </thead>
           <tbody>
           </tbody>
+          <!-- <tfoot>
+        		<tr>
+        			<td colspan="5">
+        				<div class="pagination pagination-centered hide-if-no-paging"></div>
+        			</td>
+        		</tr>
+        	</tfoot> -->
         </table>
       </div>
     </div>
@@ -236,43 +243,110 @@
         </div>
       </div>
 
-	  <!-- Prepped blog rss feed -->
-	  <div class="large-4 medium-4 small-12 columns">
-		  <div class="rss-panel"> <!-- use "panel" class for gray background -->
-		    <h3 class="subhead-panel"><a style="text-decoration: none; color: white;" href="http://blogs.denverpost.com/preps/">PREPPED BLOG</a></h3>
-		    <!-- <hr class="panel-hr">  -->
- 		      <!-- start feedwind code -->
-		      <script type="text/javascript">
-		        document.write('\x3Cscript type="text/javascript" src="' + ('https:' == document.location.protocol ? 'https://' : 'http://') + 'feed.mikle.com/js/rssmikle.js">\x3C/script>');
-		      </script>
-		      <script>
-		        (function() {
-		          var params = {
-		            rssmikle_url: "http://blogs.denverpost.com/preps/feed/",
-		            rssmikle_frame_width: "100%",
-		            rssmikle_frame_height: "750",
-		            frame_height_by_article: "0",
-		            rssmikle_target: "_blank",
-		            rssmikle_font: "Helvetica, Arial, sans-serif",
-		            rssmikle_font_size: "12",
-		            rssmikle_border: "on",
-		            responsive: "off",
-		            rssmikle_css_url: "",
-		            text_align: "left",
-		            text_align2: "left",
-		            corner: "off",
-		            scrollbar: "on",
-		            autoscroll: "on",
-		            scrolldirection: "up",
-		            scrollstep: "5",
-		            mcspeed: "20",
-		            sort: "Off",
-		            rssmikle_title: "off",
-		            rssmikle_title_sentence: "",
-		            rssmikle_title_link: "",
-		            rssmikle_title_bgcolor: "#000000",
-		            rssmikle_title_color: "#FFFFFF",
-		            rssmikle_title_bgimage: "",
+  	  <!-- Prepped blog rss feed -->
+  	  <div class="large-4 medium-4 small-12 columns">
+  		  <div class="rss-panel"> <!-- use "panel" class for gray background -->
+  		    <h3 class="subhead-panel"><a style="text-decoration: none; color: white;" href="http://blogs.denverpost.com/preps/">PREPPED BLOG</a></h3>
+  		    <!-- <hr class="panel-hr">  -->
+   		      <!-- start feedwind code -->
+  		      <script type="text/javascript">
+  		        document.write('\x3Cscript type="text/javascript" src="' + ('https:' == document.location.protocol ? 'https://' : 'http://') + 'feed.mikle.com/js/rssmikle.js">\x3C/script>');
+  		      </script>
+  		      <script>
+  		        (function() {
+  		          var params = {
+  		            rssmikle_url: "http://blogs.denverpost.com/preps/feed/",
+  		            rssmikle_frame_width: "100%",
+  		            rssmikle_frame_height: "750",
+  		            frame_height_by_article: "0",
+  		            rssmikle_target: "_blank",
+  		            rssmikle_font: "Helvetica, Arial, sans-serif",
+  		            rssmikle_font_size: "12",
+  		            rssmikle_border: "on",
+  		            responsive: "off",
+  		            rssmikle_css_url: "",
+  		            text_align: "left",
+  		            text_align2: "left",
+  		            corner: "off",
+  		            scrollbar: "on",
+  		            autoscroll: "on",
+  		            scrolldirection: "up",
+  		            scrollstep: "5",
+  		            mcspeed: "20",
+  		            sort: "Off",
+  		            rssmikle_title: "off",
+  		            rssmikle_title_sentence: "",
+  		            rssmikle_title_link: "",
+  		            rssmikle_title_bgcolor: "#000000",
+  		            rssmikle_title_color: "#FFFFFF",
+  		            rssmikle_title_bgimage: "",
+    		          rssmikle_item_bgcolor: "", //#F2F2F2
+    		          rssmikle_item_bgimage: "",
+    		          rssmikle_item_title_length: "100",
+    		          rssmikle_item_title_color: "#008CBA",
+    		          rssmikle_item_border_bottom: "on",
+    		          rssmikle_item_description: "on",
+    		          item_link: "off",
+    		          rssmikle_item_description_length: "150",
+    		          rssmikle_item_description_color: "#666666",
+    		          rssmikle_item_date: "gl1",
+    		          rssmikle_timezone: "Etc/GMT",
+    		          datetime_format: "%b %e, %Y %l:%M:%S %p",
+    		          item_description_style: "text+tn",
+    		          item_thumbnail: "crop",
+    		          item_thumbnail_selection: "auto",
+    		          article_num: "15",
+    		          rssmikle_item_podcast: "off",
+    		          keyword_inc: "",
+    		          keyword_exc: ""
+    		        };
+    		          feedwind_show_widget_iframe(params);
+    		        })();
+    		    </script>
+    		  <div style="font-size:10px; text-align:center; width:300px;"><a href="http://feed.mikle.com/" target="_blank" style="color:#CCCCCC;">RSS Feed Widget</a>
+    		  <!--Please display the above link in your web page according to Terms of Service.-->
+  		    </div>
+  		    <!-- end feedwind code -->
+  		  </div>
+  	  </div>
+
+  	  <!-- DPTV Yo Preps rss feed -->
+  	  <div class="large-4 medium-4 small-12 columns">
+  		<div class="rss-panel"> <!-- use "panel" class for gray background -->
+  		  <h3 class="subhead-panel"><a style="text-decoration: none; color: white;" href="http://dptv.denverpost.com/category/sports/yo-preps/">DPTV | YO PREPS</a></h3>
+  		  <!-- <hr class="panel-hr">  -->
+   		    <!-- start feedwind code -->
+  		    <script type="text/javascript">
+  		      document.write('\x3Cscript type="text/javascript" src="' + ('https:' == document.location.protocol ? 'https://' : 'http://') + 'feed.mikle.com/js/rssmikle.js">\x3C/script>');
+  		    </script>
+  		    <script>
+  		      (function() {
+  		        var params = {
+  		          rssmikle_url: "http://dptv.denverpost.com/category/sports/yo-preps/feed/",
+  		          rssmikle_frame_width: "100%",
+  		          rssmikle_frame_height: "750",
+  		          frame_height_by_article: "0",
+  		          rssmikle_target: "_blank",
+  		          rssmikle_font: "Helvetica, Arial, sans-serif",
+  		          rssmikle_font_size: "12",
+  		          rssmikle_border: "on",
+  		          responsive: "off",
+  		          rssmikle_css_url: "",
+  		          text_align: "left",
+  		          text_align2: "left",
+  		          corner: "off",
+  		          scrollbar: "on",
+  		          autoscroll: "on",
+  		          scrolldirection: "up",
+  		          scrollstep: "5",
+  		          mcspeed: "20",
+  		          sort: "Off",
+  		          rssmikle_title: "off",
+  		          rssmikle_title_sentence: "",
+  		          rssmikle_title_link: "",
+  		          rssmikle_title_bgcolor: "#000000",
+  		          rssmikle_title_color: "#FFFFFF",
+  		          rssmikle_title_bgimage: "",
   		          rssmikle_item_bgcolor: "", //#F2F2F2
   		          rssmikle_item_bgimage: "",
   		          rssmikle_item_title_length: "100",
@@ -298,77 +372,11 @@
   		    </script>
   		  <div style="font-size:10px; text-align:center; width:300px;"><a href="http://feed.mikle.com/" target="_blank" style="color:#CCCCCC;">RSS Feed Widget</a>
   		  <!--Please display the above link in your web page according to Terms of Service.-->
-		    </div>
-		    <!-- end feedwind code -->
-		  </div>
-	  </div>
-
-	  <!-- DPTV Yo Preps rss feed -->
-	  <div class="large-4 medium-4 small-12 columns">
-		<div class="rss-panel"> <!-- use "panel" class for gray background -->
-		  <h3 class="subhead-panel"><a style="text-decoration: none; color: white;" href="http://dptv.denverpost.com/category/sports/yo-preps/">DPTV | YO PREPS</a></h3>
-		  <!-- <hr class="panel-hr">  -->
- 		    <!-- start feedwind code -->
-		    <script type="text/javascript">
-		      document.write('\x3Cscript type="text/javascript" src="' + ('https:' == document.location.protocol ? 'https://' : 'http://') + 'feed.mikle.com/js/rssmikle.js">\x3C/script>');
-		    </script>
-		    <script>
-		      (function() {
-		        var params = {
-		          rssmikle_url: "http://dptv.denverpost.com/category/sports/yo-preps/feed/",
-		          rssmikle_frame_width: "100%",
-		          rssmikle_frame_height: "750",
-		          frame_height_by_article: "0",
-		          rssmikle_target: "_blank",
-		          rssmikle_font: "Helvetica, Arial, sans-serif",
-		          rssmikle_font_size: "12",
-		          rssmikle_border: "on",
-		          responsive: "off",
-		          rssmikle_css_url: "",
-		          text_align: "left",
-		          text_align2: "left",
-		          corner: "off",
-		          scrollbar: "on",
-		          autoscroll: "on",
-		          scrolldirection: "up",
-		          scrollstep: "5",
-		          mcspeed: "20",
-		          sort: "Off",
-		          rssmikle_title: "off",
-		          rssmikle_title_sentence: "",
-		          rssmikle_title_link: "",
-		          rssmikle_title_bgcolor: "#000000",
-		          rssmikle_title_color: "#FFFFFF",
-		          rssmikle_title_bgimage: "",
-		          rssmikle_item_bgcolor: "", //#F2F2F2
-		          rssmikle_item_bgimage: "",
-		          rssmikle_item_title_length: "100",
-		          rssmikle_item_title_color: "#008CBA",
-		          rssmikle_item_border_bottom: "on",
-		          rssmikle_item_description: "on",
-		          item_link: "off",
-		          rssmikle_item_description_length: "150",
-		          rssmikle_item_description_color: "#666666",
-		          rssmikle_item_date: "gl1",
-		          rssmikle_timezone: "Etc/GMT",
-		          datetime_format: "%b %e, %Y %l:%M:%S %p",
-		          item_description_style: "text+tn",
-		          item_thumbnail: "crop",
-		          item_thumbnail_selection: "auto",
-		          article_num: "15",
-		          rssmikle_item_podcast: "off",
-		          keyword_inc: "",
-		          keyword_exc: ""
-		        };
-		          feedwind_show_widget_iframe(params);
-		        })();
-		    </script>
-		  <div style="font-size:10px; text-align:center; width:300px;"><a href="http://feed.mikle.com/" target="_blank" style="color:#CCCCCC;">RSS Feed Widget</a>
-		  <!--Please display the above link in your web page according to Terms of Service.-->
-		  </div>
-		  <!-- end feedwind code -->
-		</div>
-	</div>
+  		  </div>
+  		  <!-- end feedwind code -->
+  		</div>
+  	</div>
+  </div>
 
 	  <!-- Twitter feed
 	  <div class="large-4 medium-4 small-12 columns">
@@ -580,7 +588,7 @@ jQuery.getJSON(url).success(function(data) {
 		$(function () {
 		  $('table').footable({ bookmarkable: { enabled: true }}).bind({
 		    'footable_filtering': function (e) {
-		      var selected = $('#sport,#high-school').find(':selected').text();
+		      var selected = $('#sport,#graduation-year').find(':selected').text();
 		      var items = selected.split(' ')
 		      if (selected && selected.length > 0) {
 		        e.filter += (e.filter && e.filter.length > 0) ? ' ' + selected : selected;
@@ -629,7 +637,7 @@ jQuery.getJSON(url).success(function(data) {
 
     <script>
       //Chartbeat stuff
-      _sf_async_config.title = "Colorado preps college commitments - The Denver Post";
+      _sf_async_config.title = 'Colorado preps college commitments - The Denver Post';
       _sf_async_config.uid = 2671;
       _sf_async_config.domain = 'denverpost.com';
       _sf_async_config.sections = 'Preps college commitments';
