@@ -143,7 +143,7 @@
     <!-- TABLE -->
     <div class="row">
       <div class="large-12 medium-12 small-12 columns">
-        <table class="table demo" data-filter="#filter" data-page-size="600">
+        <table class="preps" data-filter="#filter" data-page-size="600">
         <!-- <table id="seller-table" class="table demo" data-filter="#filter" data-filter-text-only="true" data-page-size="30"> -->
           <thead>
             <tr>
@@ -596,7 +596,7 @@ jQuery.getJSON(url).success(function(data) {
 		      }
 		    },
 		    'footable_filtered': function() {
-		      var count = $('table.demo tbody tr:not(.footable-filtered)').length;
+		      var count = $('table.footable tbody tr:not(.footable-filtered)').length;
 		      $('.row-count').html(count + ' rows found');
 		    }
 		});
@@ -605,20 +605,20 @@ jQuery.getJSON(url).success(function(data) {
 		  $('.filter-type').val('');
 		  $('.filter-category').val('');
 		  $('.filter-date').val('');
-		  $('table.demo').trigger('footable_clear_filter');
+		  $('table.preps').trigger('footable_clear_filter');
 		  $('.row-count').html('');
 		});
 		 $('.filter-type').change(function (e) {
 		   e.preventDefault();
-		   $('table.demo').data('footable-filter').filter( $('#filter').val() );
+		   $('table.preps').data('footable-filter').filter( $('#filter').val() );
 		});
 		$('.filter-category').change(function (e) {
 		  e.preventDefault();
-		  $('table.demo').data('footable-filter').filter( $('#filter').val() );
+		  $('table.preps').data('footable-filter').filter( $('#filter').val() );
 		});
 		$('.filter-date').change(function (e) {
 		  e.preventDefault();
-		  $('table.demo').data('footable-filter').filter( $('#filter').val() );
+		  $('table.preps').data('footable-filter').filter( $('#filter').val() );
 		});
       });
       </script>
