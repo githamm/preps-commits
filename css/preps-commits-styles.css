@@ -140,6 +140,13 @@ h1 {
       font-size: 18px;
       color: rgba(0, 0, 0, .75)
     }
+    .menu-links {
+      font-family: 'Alfa Slab One', arial, sans-serif;
+      font-size: 16px;
+    }
+    a:hover {
+      color: rgba(207,53,49,.9);
+    }
     img.preps-photo {
       width: 50%;
       height: 50%;
@@ -151,21 +158,13 @@ h1 {
       margin-bottom: 15px;
     }
 
-blockquote {
-    font-family: Georgia, serif;
-    font-size: 34px;
-    line-height: 39px;
-    margin-top: 50px;
-    margin-bottom: 50px;
+select {
+  height: 45px;
 }
 
-cite {
-    font-family: Georgia, serif;
-    font-size: 16px !important;
-    line-height: 25px;
-    text-align: right;
+input#filter {
+  height: 45px;
 }
-
 .section-header {
     background-color: rgba(255, 119, 51, 1.0);
     height: 35px;
@@ -174,16 +173,6 @@ cite {
     padding-left: 20px;
     padding-top: 2.5px;
     margin-bottom: 30px;
-}
-
-.carousel-caption {
-    height: 175px!important;
-}
-
-.credit {
-    font-size: 11px;
-    font-style: italic;
-    text-align: right;
 }
 
 @media screen and (max-width: 750px) {
@@ -246,133 +235,6 @@ a.review-link:link {
         font-family: "Oswald", Arial, sans-serif;
         letter-spacing: -1px;
     }
-
-/* Map styles */
-
-            /* @media only screen and (max-width: 320px){
-  img#thumbnail { width:50px; }
-} */
-
-#thumbnail {
-  width: 231px;
-  height: 150px;
-}
-
-/* a:link {
-  font-family: 'Droid Sans', Arial, sans-serif;
-  font-weight: 400;
-  font-size: 15px;
-  color: #4682B4;
-  text-decoration: none;
-} */
-
-/* a:visited {
-  color: #4682B4;
-}  */
-
-a:hover {
-  color: red;
-}
-
-/* a.review:link {
-  font-family: 'Droid Sans', Arial, sans-serif;
-  font-weight: 400;
-  font-size: 16px;
-  font-weight: 500;
-  text-decoration: none;
-  text-color: white;
-} */
-
-a.review:visited {
-  color: #4682B4;
-}
-
-a.review:hover {
-  color: red;
-}
-
-#popup {
-  font-family: 'Droid Sans', Arial, sans-serif;
-  font-weight: 400;
-  font-size: 15px;
-  line-height: 18px;
-  margin-bottom: 5px;
-}
-
-#stars {
-  width: auto; /* was 225 */
-  height: 20px; /* was 40 */
-  margin-top: 0px;
-}
-
-#menustars {
-  width: auto;
-  height: 20px;
-  color: #ccc;
-}
-
-#submenustars {
-  width: auto;
-  height: 20px;
-  padding-left: 15px;
-}
-
-#modalstars {
-  width: auto;
-  height: 30px;
-  margin-right: -70px;
-  margin-top: -4px;
-}
-
-#menuheader {
-  font-weight: bold;
-  padding-left: 25px;
-}
-
-#map {
-  width: 100%;
-  height: 500px;
-}
-
-.gm-style-iw {
-  overflow: hidden !important;
-  max-width: 231px;
-}
-
-img {
-  max-width: none;
-}
-
-.mapsheet-popup {
-  overflow-x: hidden;
-}
-
-.mapsheet-popup h2 {
-  font-family: 'Droid Sans', Arial, sans-serif;
-  font-weight: 900;
-  font-size: 24px;
-  margin-bottom: 0px;
-}
-
-.button {
-  padding: 10px;
-  margin-bottom: 0px;
-}
-
-#map-container {
-    border: solid 2px #777;
-}
-
-#table-container {
-    margin-top: 25px;
-}
-
-#header-image {
-  margin-bottom: 50px;
-  height: 600px;
-  display: block;
-  position: relative;
-}
 
 #header-image::after {
   content: "";
