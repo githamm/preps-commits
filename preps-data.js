@@ -336,22 +336,6 @@
     "Upload photo": 0
   },
   {
-    "Submission Date": "2015-09-09 00:39:16",
-    "First name": "Austin",
-    "Last name": "Wood",
-    "High school": "Silver Creek",
-    "HS graduation year": 2016,
-    "Sport": "Baseball",
-    "Position": "RHP",
-    "Height": "6-5",
-    "Weight": 200,
-    "College": "Furman University",
-    "Commitment": "Verbal",
-    "Date of commitment": "09-01-2015",
-    "Other information": "Was also one of the top QB recruits in the state...",
-    "Upload photo": "http://www.jotform.us/uploads/denverpostdata/50716566158158/317582769261161245/image.jpg"
-  },
-  {
     "Submission Date": "2015-09-09 14:37:23",
     "First name": "Alex",
     "Last name": "Jackson",
@@ -382,22 +366,6 @@
     "Date of commitment": "09-04-2015",
     "Other information": 0,
     "Upload photo": 0
-  },
-  {
-    "Submission Date": "2015-09-11 15:22:05",
-    "First name": "Austin",
-    "Last name": "Wood",
-    "High school": "Silver Creek",
-    "HS graduation year": 2016,
-    "Sport": "Baseball",
-    "Position": "RHP / 1B",
-    "Height": "6-5",
-    "Weight": 200,
-    "College": "Furman University",
-    "Commitment": "Verbal",
-    "Date of commitment": "09-11-2015",
-    "Other information": "One of the Top Two sport athletes in Colorado has given up playing football to focus on Baseball full time while committing to D-1 Furman University (Southern Conference).",
-    "Upload photo": "http://www.jotform.us/uploads/denverpostdata/50716566158158/317808523203703151/image.jpg"
   },
   {
     "Submission Date": "2015-09-14 17:33:45",
@@ -445,6 +413,22 @@
     "Commitment": "Verbal",
     "Date of commitment": "09-03-2015",
     "Other information": "Austin was Academic First Team All State in Football (QB) & Baseball (RHP/1B) last year as a Junior #3 passer 4A/5A last year in yardage and 5-1 Pitching making First Team Northern Conference, Pitcher of the Year, and First Team Boco All Region Team.",
+    "Upload photo": 0
+  },
+  {
+    "Submission Date": "2015-09-25 16:47:35",
+    "First name": "Symone",
+    "Last name": "Starks",
+    "High school": "Highlands Ranch",
+    "HS graduation year": 2016,
+    "Sport": "Basketball (girls)",
+    "Position": "Point Guard",
+    "Height": "5-5",
+    "Weight": 138,
+    "College": "Eastern Washington University",
+    "Commitment": "Verbal",
+    "Date of commitment": "09-20-2015",
+    "Other information": 0,
     "Upload photo": 0
   }
 ]

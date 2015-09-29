@@ -22,16 +22,6 @@
     margin-bottom: 20px;
 }
 
-#nav-bar-title {
-    font-family: 'Georgia', serif;
-    font-size: 24px;
-}
-
-#nav-bar-dropdown {
-    font-size: 14px;
-    font-weight: bold;
-}
-
 .share-buttons {
     height: 40px;
     width: 40px;
@@ -53,45 +43,10 @@ img.footer-logo {
     margin-bottom: 30px;
 }
 
-.scrbbl-embed {
-    width: 100% !important;
-    height: 745px !important;
-    margin-bottom: 25px !important;
-}
-
-iframe.slideshow {
-    width: 100% !important;
-    height: 1275px;
-}
-
 #ad-space {
     margin-top: 20px;
     margin-bottom: 40px;
     text-align: center;
-}
-
-img.main {
-    width: 100%;
-    height: auto;
-}
-
-h1.main-hed {
-    font-family: "Oswald", Arial, sans-serif;
-    font-size: 84px;
-    font-weight: bold;
-    line-height: 90px;
-    letter-spacing: 2px;
-
-}
-
-@media screen and (max-width: 500px) {
-  h1.main-hed {
-    font-family: "Oswald", Arial, sans-serif;
-    font-size: 62px;
-    font-weight: bold;
-    line-height: 68px;
-    letter-spacing: 2px;
-  }
 }
 
 th {
@@ -129,34 +84,35 @@ div.title-bar {
   margin-top: 15px;
 }
 
-h1 {
+h1.main-hed {
       font-family: 'Alfa Slab One', arial, sans-serif;
       font-size: 48px;
       line-height: 52px;
       color: rgba(0, 0, 0, 1);
     }
-    p.intro {
-      font-family: 'Alfa Slab One', arial, sans-serif;
-      font-size: 18px;
-      color: rgba(0, 0, 0, .75)
-    }
-    .menu-links {
-      font-family: 'Alfa Slab One', arial, sans-serif;
-      font-size: 16px;
-    }
-    a:hover {
-      color: rgba(207,53,49,.9);
-    }
-    img.preps-photo {
-      width: 50%;
-      height: 50%;
-    }
-    span.footable-toggle {
-      font-size: 11px !important;
-    }
-    .rss-panel {
-      margin-bottom: 15px;
-    }
+p.intro {
+  font-family: 'Alfa Slab One', arial, sans-serif;
+  font-size: 18px;
+  color: rgba(0, 0, 0, .75)
+}
+.menu-links {
+  font-family: 'Alfa Slab One', arial, sans-serif;
+  font-size: 15px;
+  letter-spacing: .04em;
+}
+a:hover {
+  color: rgba(207,53,49,.9);
+}
+img.preps-photo {
+  width: 50%;
+  height: 50%;
+}
+span.footable-toggle {
+  font-size: 11px !important;
+}
+.rss-panel {
+  margin-bottom: 15px;
+}
 
 select {
   height: 45px;
@@ -165,130 +121,30 @@ select {
 input#filter {
   height: 45px;
 }
-.section-header {
-    background-color: rgba(255, 119, 51, 1.0);
-    height: 35px;
-    font-family: "Oswald", Arial, sans-serif;
-    font-size: 20px;
-    padding-left: 20px;
-    padding-top: 2.5px;
-    margin-bottom: 30px;
+
+div.rss-panel {
+	height: 825px;
 }
+
+div.pagination {
+  letter-spacing: 20px;
+  margin: 10px 0 -13px 0 !important;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  display: inline;
+}
+
+/* -------------------------- Media Queries ------------------------- */
 
 @media screen and (max-width: 750px) {
     #ad-space {
         display: none !important;
     }
-}
-
-@media screen and (max-width: 500px) {
-    #mobile-image {
-        display: none !important;
-    }
-}
-
-hr.panel-hr {
-    border: none;
-    height: 4px;
-    background-color: #808080;
-}
-p.anchor-links {
-    font-family: "Oswald", Arial, sans-serif;
-    font-size: 16px;
-}
-#table-top-margin {
-    margin-top: 20px;
-}
-
-.review-link {
-    float: right;
-    }
-a.review-link:link {
-    background: rgba(0,140,186,1.0);
-    color: white;
-    font-size: 11px;
-    font-weight: bold;
-    text-decoration: none;
-    padding: 3px 7px 3px 7px;
-    }
-    a.review-link:hover {
-    background: rgba(0,140,186,.5);
-    color: white;
-    font-size: 11px;
-    font-weight: bold;
-    text-decoration: none;
-    padding: 3px 7px 3px 7px;
-    }
-    a.review-link:visited {
-    background: rgba(0,140,186,1.0);
-    color: white;
-    font-size: 11px;
-    font-weight: bold;
-    text-decoration: none;
-    padding: 3px 7px 3px 7px;
-    }
-    h2.intro-hed {
-        font-family: "Oswald", Arial, sans-serif;
-        margin-bottom: 3px;
-    }
-    h2 {
-        font-family: "Oswald", Arial, sans-serif;
-        letter-spacing: -1px;
-    }
-
-#header-image::after {
-  content: "";
-  background: url(//extras.denverpost.com/restaurant-review-guide/images/zoe-ma-ma.jpg);
-  opacity: 0.5;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  position: absolute;
-  z-index: -1;
-  background-attachment:fixed;
-  background-repeat: no-repeat;
-  background-size: cover;
-  margin-bottom: 50px;
-  height: 600px;
-  border-bottom: solid rgba(0,0,0,.4) 5px;
-}
-
-@media screen and (max-width: 500px) {
-  #header-image {
-    display: none;
-  }
-}
-
-@media screen and (max-width: 500px) {
-  #header-image::after {
-    display: none;
-  }
-}
-
-@media screen and (min-width: 501px) {
-  #phone-top {
-    display: none;
-  }
-}
-
-img#phone-photo {
-  width: 100%;
-  height: auto;
-  margin-bottom: 8px;
-  margin-top: 8px;
-}
-
-.main-hed-phone {
-  font-family: "Oswald", Arial, sans-serif;
-    font-size: 62px;
-    font-weight: bold;
-    line-height: 70px;
-    letter-spacing: 1px;
-}
-
-div.rss-panel {
-	height: 825px;
 }
 
 /* ----------------------------- Adverts ----------------------------- */

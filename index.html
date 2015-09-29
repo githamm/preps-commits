@@ -115,11 +115,11 @@
       </div>
     </div> -->
 
-    <!-- TITLE AND INTRO -->
+    <!-- NAV LINKS, TITLE AND INTRO -->
     <div class="row">
       <div class="large-12 medium-12 small-12 columns">
         <span class="menu-links"><a href="#stories-video">Stories & Video</a> &bull; <a href="#photos">Photos</a> &bull; <a href="#newsletter">Newsletter</a> &bull; <a href="http://form.jotform.us/form/50716566158158">Commitment form</a></span>
-        <h1 style="margin-top:25px;">Colorado preps college commits</h1>
+        <h1 class="main-hed" style="margin-top:25px;">Colorado preps college commits</h1>
         <p class="intro">This is a database of Colorado high school student-athletes who have committed to participate in college athletics. Filter search results by sport, graduation year or type in a specific keyword, such as name, high school or position.  Click the column headers to sort. To submit a college commitment, please <a href="http://form.jotform.us/form/50716566158158">fill out the form</a> and attach a photo of the athlete.</p>
       </div>
     </div>
@@ -129,7 +129,7 @@
       <div class="large-4 medium-4 small-12 columns">
         <p><span style="font-weight: bold">Keyword search</span><input id="filter" type="text"/></p>
       </div>
-      <div class="large-4 medium-4 small-12 columns">
+      <div class="large-4 medium-4 small-12 columns end">
         <p><span style="font-weight: bold">Sport</span>
           <select id="sport" class="filter-type">
             <option></option>
@@ -147,6 +147,7 @@
           <span class="row-count"></span>
         </p>
       </div>
+      <!-- FIX GRAD YEAR FILTER
       <div class="large-4 medium-4 small-12 columns">
         <p><span style="font-weight: bold">Graduation year</span>
           <select id="graduation-year" class="filter-type">
@@ -157,14 +158,13 @@
           <a href="#clear" class="clear-filter" title="clear filter">[clear]</a>
           <span class="row-count"></span>
         </p>
-      </div>
-    </div>
+      </div> -->
+    </div> 
 
     <!-- TABLE -->
     <div class="row">
       <div class="large-12 medium-12 small-12 columns">
-        <table class="preps" data-filter="#filter" data-page-size="600">
-        <!-- <table id="seller-table" class="table demo" data-filter="#filter" data-filter-text-only="true" data-page-size="30"> -->
+        <table class="preps" data-filter="#filter" data-page-size="10">
           <thead>
             <tr>
               <th data-toggle="true" data-sort-initial="true">Last<br>name</th>
@@ -555,15 +555,10 @@
     </div>
 
     <script>
-      $('table').footable();
-
       function create_row (item) {
         var row = $('<tr><td>' + item['Last name'] + '</td><td>' + item['First name'] + '</td><td>' + item['High school'] + '</td><td>' + item['Sport'] + '</td><td>' + item['Position'] + '</td><td>' + item['Height'] + '</span>' + '</td><td>' + item['Weight'] + '</td><td>' + item['College'] + '</td><td>' + item['HS graduation year'] + '</td><td>' + item['Commitment'] + '</td><td>'  + item['Date of commitment'] + '</td></tr>');
           return row;
       }
-
-
-      // var footable = $('#modality').footable().data('footable');
 
       $.ajax({
         url : 'preps-data.js',
@@ -618,7 +613,8 @@
 
     <script src="http://extras.denverpost.com/foundation/js/foundation.min.js"></script>
     <script>
-       $(document).foundation();
+       //$('table').footable();
+       //$(document).foundation();
     </script>
 
     <!-- <script src="http://extras.denverpost.com/foundation/js/vendor/jquery.js"></script>
