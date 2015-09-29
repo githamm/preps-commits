@@ -240,22 +240,6 @@
     "Upload photo": "http://www.jotform.us/uploads/denverpostdata/50716566158158/312379525354806809/Anna%20Hortik%20-%20DU%202020.jpg"
   },
   {
-    "Submission Date": "7/15/2015 20:47:40",
-    "First name": "Jericho",
-    "Last name": "Simon",
-    "High school": "Denver West",
-    "HS graduation year": 2016,
-    "Sport": "Football",
-    "Position": "Lineman",
-    "Height": "6-3",
-    "Weight": 255,
-    "College": "University of Michigan",
-    "Commitment": "Verbal",
-    "Date of commitment": "07-13-2015",
-    "Other information": "Talented lineman commits to the Wolverines...Also had many D-1 offers.",
-    "Upload photo": 0
-  },
-  {
     "Submission Date": "7/17/2015 13:56:38",
     "First name": "Will",
     "Last name": "Rogan",

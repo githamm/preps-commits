@@ -141,6 +141,23 @@ li {
 
 /* -------------------------- Media Queries ------------------------- */
 
+@media screen and (max-width: 600px) {
+  h1.main-hed {
+      font-family: 'Alfa Slab One', arial, sans-serif;
+      font-size: 37px;
+      line-height: 43px;
+      color: rgba(0, 0, 0, 1);
+    }
+}
+
+@media screen and (max-width: 600px) {
+  p.intro {
+  font-family: 'Alfa Slab One', arial, sans-serif;
+  font-size: 16px;
+  color: rgba(0, 0, 0, .75)
+  }
+}
+
 @media screen and (max-width: 750px) {
     #ad-space {
         display: none !important;
