@@ -187,7 +187,9 @@
             <option value="golf-boys">Golf (boys)</option>
             <option value="golf-girls">Golf (girls)</option>
             <option value="lacrosse-boys">Lacrosse (boys)</option>
-            <option value="lacrosse-girls">Lacrosse (girls)</option>
+            <option value="lacrosse-girls">Lacrosse (girls)</option>            
+            <option value="soccer-boys">Soccer (boys)</option>         
+            <option value="soccer-girls">Soccer (girls)</option>
             <option value="volleyball">Volleyball</option>
           </select>
           <a href="#clear" class="clear-filter" title="clear filter">[clear]</a>
@@ -258,8 +260,39 @@
       </div>
     </div>
 
-    <!-- RSS FEED WIDGETS -->
+    <!-- BANNER AD -->
+    <div class="row">
+      <div class="large-9 large-centered medium-9 medium-centered columns">
+        <div id="banner-ad">
+          <!-- begin Top Banner Ad Tag -->
+          <div id='div_Banner_top'>
+            <script type='text/javascript'>
+              googletag.defineSlot('/8013/denverpost.com/sports', [728, 90], 'div_Banner_top').setTargeting('POS', 'top_leaderboard').addService(googletag.pubads());
+              googletag.pubads().enableSyncRendering();
+              googletag.enableServices();
+              googletag.display('div_Banner_top');
+            </script>
+          </div>
+          <!-- end Top Banner Ad Tag -->
+        </div>
+      </div>
+      <div class="hide-for-large hide-for-medium small-12 columns">
+        <div class="row adcubes">
+        <div id="div_Cube6" class="adcube-wrap">
+          <script type='text/javascript'>
+          if ( window.innerWidth <= 660 ) {
+              googletag.defineSlot('/8013/denverpost.com/Sports', [300,250], 'div_Cube6').addService(googletag.pubads());
+              googletag.pubads().enableSyncRendering();
+              googletag.enableServices();
+              googletag.display('div_Cube6');
+          }
+          </script>
+        </div>
+      </div>
+      </div>
+    </div>
 
+    <!-- RSS FEED WIDGETS -->
     <div id="stories-video"></div>
     <div class="row">
       <!-- denverpost.com/preps rss feed -->

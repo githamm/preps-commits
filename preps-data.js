@@ -12,9 +12,7 @@
     "College": "University of the South Sewanee",
     "Division": "NCAA D-3",
     "Commitment": "Verbal",
-    "Date of commitment": 0,
-    "Other information": 0,
-    "Upload photo": 0
+    "Date of commitment": 0
   },
   {
     "Submission Date": "2015-07-01 20:59:05",
@@ -29,9 +27,7 @@
     "College": "Sacred Heart",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": 0,
-    "Other information": 0,
-    "Upload photo": 0
+    "Date of commitment": 0
   },
   {
     "Submission Date": "2015-07-02 08:30:54",
@@ -46,9 +42,7 @@
     "College": "Notre Dame",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "07-01-2014",
-    "Other information": 0,
-    "Upload photo": 0
+    "Date of commitment": "07-01-2014"
   },
   {
     "Submission Date": "2015-07-02 09:18:16",
@@ -63,9 +57,7 @@
     "College": "CSU-Pueblo",
     "Division": "NCAA D-2",
     "Commitment": "Signed Letter of Intent",
-    "Date of commitment": "11-24-2014",
-    "Other information": 0,
-    "Upload photo": 0
+    "Date of commitment": "11-24-2014"
   },
   {
     "Submission Date": "2015-07-02 09:21:22",
@@ -80,9 +72,7 @@
     "College": "CSU-Pueblo",
     "Division": "NCAA D-2",
     "Commitment": "Signed Letter of Intent",
-    "Date of commitment": "11-24-2014",
-    "Other information": 0,
-    "Upload photo": 0
+    "Date of commitment": "11-24-2014"
   },
   {
     "Submission Date": "2015-07-02 09:25:31",
@@ -97,9 +87,7 @@
     "College": "CSU-Pueblo",
     "Division": "NCAA D-2",
     "Commitment": "Signed Letter of Intent",
-    "Date of commitment": "11-24-2014",
-    "Other information": "2014 Colorado 4A State Champion",
-    "Upload photo": 0
+    "Date of commitment": "11-24-2014"
   },
   {
     "Submission Date": "2015-07-02 09:27:36",
@@ -114,9 +102,7 @@
     "College": "CSU-Pueblo",
     "Division": "NCAA D-2",
     "Commitment": "Verbal",
-    "Date of commitment": "05-01-2015",
-    "Other information": 0,
-    "Upload photo": 0
+    "Date of commitment": "05-01-2015"
   },
   {
     "Submission Date": "2015-07-02 13:13:35",
@@ -131,9 +117,7 @@
     "College": "Otero Junior College",
     "Division": "JUCO",
     "Commitment": "Signed Letter of Intent",
-    "Date of commitment": "03-20-2015",
-    "Other information": 0,
-    "Upload photo": 0
+    "Date of commitment": "03-20-2015"
   },
   {
     "Submission Date": "2015-07-02 16:37:46",
@@ -148,9 +132,7 @@
     "College": "Fort Lewis College",
     "Division": "NCAA D-2",
     "Commitment": "Signed Letter of Intent",
-    "Date of commitment": "01-21-2015",
-    "Other information": 0,
-    "Upload photo": "http://www.jotform.us/uploads/denverpostdata/50716566158158/311678657971804619/image.jpg"
+    "Date of commitment": "01-21-2015"
   },
   {
     "Submission Date": "2015-07-02 17:07:52",
@@ -162,12 +144,10 @@
     "Position": "QB",
     "Height": "6-3",
     "Weight": 195,
-    "College": "University of Sioux Falls",
+    "College": "Sioux Falls",
     "Division": "NCAA D-2",
     "Commitment": "Verbal",
-    "Date of commitment": "06-23-2015",
-    "Other information": 0,
-    "Upload photo": "http://www.jotform.us/uploads/denverpostdata/50716566158158/311680464521502243/image.jpg"
+    "Date of commitment": "06-23-2015"
   },
   {
     "Submission Date": "2015-07-02 20:13:59",
@@ -182,9 +162,7 @@
     "College": "Lafayette College",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "11-02-2014",
-    "Other information": 0,
-    "Upload photo": 0
+    "Date of commitment": "11-02-2014"
   },
   {
     "Submission Date": "2015-07-07 14:09:26",
@@ -199,9 +177,7 @@
     "College": "CSU-Pueblo",
     "Division": "NCAA D-2",
     "Commitment": "Verbal",
-    "Date of commitment": "05-27-2015",
-    "Other information": 0,
-    "Upload photo": "http://www.jotform.us/uploads/denverpostdata/50716566158158/312101766742536223/CTHS%20Football%20Senior%20Night%20%2866%29.JPG"
+    "Date of commitment": "05-27-2015"
   },
   {
     "Submission Date": "2015-07-09 13:37:35",
@@ -216,9 +192,7 @@
     "College": "Colby Community College",
     "Division": "JUCO",
     "Commitment": "Signed Letter of Intent",
-    "Date of commitment": "04-24-2015",
-    "Other information": 0,
-    "Upload photo": 0
+    "Date of commitment": "04-24-2015"
   },
   {
     "Submission Date": "2015-07-10 16:49:21",
@@ -230,12 +204,10 @@
     "Position": "OF/LHP",
     "Height": "6-3",
     "Weight": 185,
-    "College": "Tulane University",
+    "College": "Tulane",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "07-09-2015",
-    "Other information": 0,
-    "Upload photo": 0
+    "Date of commitment": "07-09-2015"
   },
   {
     "Submission Date": "2015-07-10 19:18:47",
@@ -250,9 +222,7 @@
     "College": "University of Denver",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "08-05-2014",
-    "Other information": "Multi-sport athlete. Didn't start playing lacrosse till the summer before high school.",
-    "Upload photo": "http://www.jotform.us/uploads/denverpostdata/50716566158158/312379525354806809/Anna%20Hortik%20-%20DU%202020.jpg"
+    "Date of commitment": "08-05-2014"
   },
   {
     "Submission Date": "7/17/2015 13:56:38",
@@ -267,9 +237,7 @@
     "College": "Loras College",
     "Division": "NCAA D-3",
     "Commitment": "Verbal",
-    "Date of commitment": "05-05-2015",
-    "Other information": 0,
-    "Upload photo": 0
+    "Date of commitment": "05-05-2015"
   },
   {
     "Submission Date": "7/19/2015 12:40:02",
@@ -281,12 +249,10 @@
     "Position": "Pitcher",
     "Height": "6-1",
     "Weight": 190,
-    "College": "U.S. Military Academy (West Point)",
+    "College": "West Point",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "12-01-2014",
-    "Other information": 0,
-    "Upload photo": "http://www.jotform.us/uploads/denverpostdata/50716566158158/313133198810286662/59416438-CCOV-119.jpg"
+    "Date of commitment": "12-01-2014"
   },
   {
     "Submission Date": "8/3/2015 13:13:15",
@@ -301,9 +267,7 @@
     "College": "Garden City Community College",
     "Division": "JUCO",
     "Commitment": "Signed Letter of Intent",
-    "Date of commitment": "06-18-2015",
-    "Other information": 0,
-    "Upload photo": 0
+    "Date of commitment": "06-18-2015"
   },
   {
     "Submission Date": "2015-09-05 21:54:24",
@@ -315,12 +279,10 @@
     "Position": "3rd/2nd Base",
     "Height": "6-0",
     "Weight": 180,
-    "College": "Northwest Missouri State University",
+    "College": "Northwest Missouri State",
     "Division": "NCAA D-2",
     "Commitment": "Signed Letter of Intent",
-    "Date of commitment": "07-27-2015",
-    "Other information": 0,
-    "Upload photo": "http://www.jotform.us/uploads/denverpostdata/50716566158158/317313673122420853/Dylan Signing NLI.jpg"
+    "Date of commitment": "07-27-2015"
   },
   {
     "Submission Date": "2015-09-07 10:52:54",
@@ -332,12 +294,10 @@
     "Position": "Goalie",
     "Height": "6-3",
     "Weight": 185,
-    "College": "Denison University",
+    "College": "Denison",
     "Division": "NCAA D-3",
     "Commitment": "Signed Letter of Intent",
-    "Date of commitment": "03-07-2015",
-    "Other information": 0,
-    "Upload photo": 0
+    "Date of commitment": "03-07-2015"
   },
   {
     "Submission Date": "2015-09-09 14:37:23",
@@ -349,12 +309,10 @@
     "Position": "Defender",
     "Height": "6-0",
     "Weight": 150,
-    "College": "U.S. Naval Academy",
+    "College": "Naval Academy",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "04-29-2015",
-    "Other information": "First female in Arapahoe High School History to attend Naval Academy.",
-    "Upload photo": 0
+    "Date of commitment": "04-29-2015"
   },
   {
     "Submission Date": "2015-09-09 14:39:20",
@@ -366,12 +324,10 @@
     "Position": "Defender",
     "Height": "6-4",
     "Weight": 190,
-    "College": "University of Washington",
+    "College": "Washington",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "09-04-2015",
-    "Other information": 0,
-    "Upload photo": 0
+    "Date of commitment": "09-04-2015"
   },
   {
     "Submission Date": "2015-09-14 17:33:45",
@@ -383,12 +339,10 @@
     "Position": "Goalie",
     "Height": "5-8",
     "Weight": 135,
-    "College": "Winthrop University",
+    "College": "Winthrop",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "08-02-2015",
-    "Other information": 0,
-    "Upload photo": "http://www.jotform.us/uploads/denverpostdata/50716566158158/318075623601198351/Screen Shot 2015-09-14 at 3.32.52 PM.png"
+    "Date of commitment": "08-02-2015"
   },
   {
     "Submission Date": "2015-09-19 09:57:10",
@@ -400,12 +354,10 @@
     "Position": "Point Guard/Shooting Guard",
     "Height": "5-6",
     "Weight": 127,
-    "College": "Colorado Mesa University",
+    "College": "Colorado Mesa",
     "Division": "NCAA D-2",
     "Commitment": "Verbal",
-    "Date of commitment": "09-09-2015",
-    "Other information": 0,
-    "Upload photo": "http://www.jotform.us/uploads/denverpostdata/50716566158158/318480225741686613/image.jpg"
+    "Date of commitment": "09-09-2015"
   },
   {
     "Submission Date": "2015-09-22 21:38:14",
@@ -417,12 +369,10 @@
     "Position": "RHP",
     "Height": "6-5",
     "Weight": 210,
-    "College": "Furman University",
+    "College": "Furman",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "09-03-2015",
-    "Other information": "Austin was Academic First Team All State in Football (QB) & Baseball (RHP/1B) last year as a Junior #3 passer 4A/5A last year in yardage and 5-1 Pitching making First Team Northern Conference, Pitcher of the Year, and First Team Boco All Region Team.",
-    "Upload photo": 0
+    "Date of commitment": "09-03-2015"
   },
   {
     "Submission Date": "2015-09-25 16:47:35",
@@ -434,12 +384,10 @@
     "Position": "Point Guard",
     "Height": "5-5",
     "Weight": 138,
-    "College": "Eastern Washington University",
+    "College": "Eastern Washington",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "09-20-2015",
-    "Other information": 0,
-    "Upload photo": 0
+    "Date of commitment": "09-20-2015"
   },
   {
     "Submission Date": "2015-09-29 14:10:05",
@@ -452,11 +400,9 @@
     "Height": "6-7",
     "Weight": 156,
     "College": "Summit Christian College",
-    "Division": "Other",
+    "Division": 0,
     "Commitment": "Signed Letter of Intent",
-    "Date of commitment": "09-29-2015",
-    "Other information": 0,
-    "Upload photo": 0
+    "Date of commitment": "09-29-2015"
   },
   {
     "Submission Date": "2015-09-30 13:41:12",
@@ -468,11 +414,309 @@
     "Position": "Forward",
     "Height": "6-0",
     "Weight": 150,
-    "College": "Regis University",
+    "College": "Regis",
     "Division": "NCAA D-2",
     "Commitment": "Verbal",
-    "Date of commitment": "09-14-2015",
-    "Other information": "Super excited to be apart of new Head Coach Molly Marrin's team.",
-    "Upload photo": "http://www.jotform.us/uploads/denverpostdata/50716566158158/319444071052383506/IMG_3629 (1).gif"
+    "Date of commitment": "09-14-2015"
+  },
+  {
+    "Submission Date": "2015-10-01 22:46:58",
+    "First name": "Jake",
+    "Last name": "Rudel",
+    "High school": "Fort Collins",
+    "HS graduation year": 2016,
+    "Sport": "Soccer (boys)",
+    "Position": "Forward / Defense",
+    "Height": "6-3",
+    "Weight": 160,
+    "College": "Saint Mary's College",
+    "Division": "NCAA D-1",
+    "Commitment": "Verbal",
+    "Date of commitment": "08-01-2015"
+  },
+  {
+    "Submission Date": "2015-10-07 18:34:44",
+    "First name": "Cooper",
+    "Last name": "Rothe",
+    "High school": "Longmont",
+    "HS graduation year": 2016,
+    "Sport": "Football",
+    "Position": "K/DB",
+    "Height": "6-0",
+    "Weight": 170,
+    "College": "Wyoming",
+    "Division": "NCAA D-1",
+    "Commitment": "Verbal",
+    "Date of commitment": "10-06-2015"
+  },
+  {
+    "Submission Date": "2015-10-07 19:35:49",
+    "First name": "Morgan",
+    "Last name": "Gray",
+    "High school": "Holy Family",
+    "HS graduation year": 2016,
+    "Sport": "Soccer (girls)",
+    "Position": "Center Back",
+    "Height": "6-1",
+    "Weight": 160,
+    "College": "Wingate",
+    "Division": "NCAA D-2",
+    "Commitment": "Verbal",
+    "Date of commitment": "09-15-2015"
+  },
+  {
+    "Submission Date": "2015-10-07 20:22:58",
+    "First name": "Jackson",
+    "Last name": "Solem",
+    "High school": "Longmont Christian / Silver Creek",
+    "HS graduation year": 2017,
+    "Sport": "Golf (boys)",
+    "Position": "na",
+    "Height": "6-2",
+    "Weight": 200,
+    "College": "University of Denver",
+    "Division": "NCAA D-1",
+    "Commitment": "Verbal",
+    "Date of commitment": "09-14-2015"
+  },
+  {
+    "Submission Date": "2015-10-08 15:14:41",
+    "First name": "Matt",
+    "Last name": "Lynch",
+    "High school": "Legacy",
+    "HS graduation year": 2016,
+    "Sport": "Football",
+    "Position": "QB",
+    "Height": "6-5",
+    "Weight": 185,
+    "College": "UCLA",
+    "Division": "NCAA D-1",
+    "Commitment": "Verbal",
+    "Date of commitment": "05-06-2015"
+  },
+  {
+    "Submission Date": "2015-10-08 15:16:55",
+    "First name": "Terriek",
+    "Last name": "Roberts",
+    "High school": "Denver South",
+    "HS graduation year": 2016,
+    "Sport": "Football",
+    "Position": "OT",
+    "Height": "6-6",
+    "Weight": 255,
+    "College": "Colorado",
+    "Division": "NCAA D-1",
+    "Commitment": "Verbal",
+    "Date of commitment": "06-02-2015"
+  },
+  {
+    "Submission Date": "2015-10-08 15:18:22",
+    "First name": "Jack",
+    "Last name": "Stoll",
+    "High school": "Regis Jesuit",
+    "HS graduation year": 2016,
+    "Sport": "Football",
+    "Position": "TE",
+    "Height": "6-4",
+    "Weight": 220,
+    "College": "Nebraska",
+    "Division": "NCAA D-1",
+    "Commitment": "Verbal",
+    "Date of commitment": "06-24-2015"
+  },
+  {
+    "Submission Date": "2015-10-08 15:19:32",
+    "First name": "JoJo",
+    "Last name": "Domann",
+    "High school": "Pine Creek",
+    "HS graduation year": 2016,
+    "Sport": "Football",
+    "Position": "OLB",
+    "Height": "6-1",
+    "Weight": 210,
+    "College": "Nebraska",
+    "Division": "NCAA D-1",
+    "Commitment": "Verbal",
+    "Date of commitment": "06-26-2015"
+  },
+  {
+    "Submission Date": "2015-10-08 15:20:55",
+    "First name": "Dillon",
+    "Last name": "Reinkensmeyer",
+    "High school": "Valor Christian",
+    "HS graduation year": 2016,
+    "Sport": "Football",
+    "Position": "OT",
+    "Height": "6-6",
+    "Weight": 270,
+    "College": "Virginia",
+    "Division": "NCAA D-1",
+    "Commitment": "Verbal",
+    "Date of commitment": "06-29-2015"
+  },
+  {
+    "Submission Date": "2015-10-08 15:22:21",
+    "First name": "Jake",
+    "Last name": "Moretti",
+    "High school": "Pomona",
+    "HS graduation year": 2017,
+    "Sport": "Football",
+    "Position": "OT",
+    "Height": "6-5",
+    "Weight": 285,
+    "College": "Ohio State",
+    "Division": "NCAA D-1",
+    "Commitment": "Verbal",
+    "Date of commitment": "07-04-2015"
+  },
+  {
+    "Submission Date": "2015-10-08 15:24:18",
+    "First name": "Tony",
+    "Last name": "McBride",
+    "High school": "Fort Morgan",
+    "HS graduation year": 2016,
+    "Sport": "Football",
+    "Position": "RB/DE",
+    "Height": "6-3",
+    "Weight": 245,
+    "College": "Colorado State",
+    "Division": "NCAA D-1",
+    "Commitment": "Verbal",
+    "Date of commitment": "08-04-2015"
+  },
+  {
+    "Submission Date": "2015-10-08 15:42:17",
+    "First name": "Isiah",
+    "Last name": "Pannunzio",
+    "High school": "Pueblo South",
+    "HS graduation year": 2016,
+    "Sport": "Football",
+    "Position": "TE/DE",
+    "Height": "6-2",
+    "Weight": 205,
+    "College": "Colorado State",
+    "Division": "NCAA D-1",
+    "Commitment": "Verbal",
+    "Date of commitment": "07-24-2015"
+  },
+  {
+    "Submission Date": "2015-10-08 15:46:32",
+    "First name": "Javen",
+    "Last name": "Gumber",
+    "High school": "Fruita Monument",
+    "HS graduation year": 2016,
+    "Sport": "Basketball (boys)",
+    "Position": "Forward",
+    "Height": "6-7",
+    "Weight": 165,
+    "College": "Air Force Academy",
+    "Division": "NCAA D-1",
+    "Commitment": "Verbal",
+    "Date of commitment": "06-24-2015"
+  },
+  {
+    "Submission Date": "2015-10-08 15:48:03",
+    "First name": "Austin",
+    "Last name": "Mueller",
+    "High school": "ThunderRidge",
+    "HS graduation year": 2016,
+    "Sport": "Basketball (boys)",
+    "Position": "Small forward",
+    "Height": "6-6",
+    "Weight": 190,
+    "College": "Wyoming",
+    "Division": "NCAA D-1",
+    "Commitment": "Verbal",
+    "Date of commitment": "06-17-2015"
+  },
+  {
+    "Submission Date": "2015-10-08 15:50:02",
+    "First name": "Justin",
+    "Last name": "Bassey",
+    "High school": "Colorado Academy",
+    "HS graduation year": 2016,
+    "Sport": "Basketball (boys)",
+    "Position": 2016,
+    "Height": "6-4",
+    "Weight": 200,
+    "College": "Harvard",
+    "Division": "NCAA D-1",
+    "Commitment": "Verbal",
+    "Date of commitment": "03-25-2015"
+  },
+  {
+    "Submission Date": "2015-10-08 15:53:08",
+    "First name": "Mike",
+    "Last name": "Ranson",
+    "High school": "Pueblo Central",
+    "HS graduation year": 2016,
+    "Sport": "Basketball (boys)",
+    "Position": "Guard",
+    "Height": "6-2",
+    "Weight": 185,
+    "College": "Northern Colorado",
+    "Division": "NCAA D-1",
+    "Commitment": "Verbal",
+    "Date of commitment": "06-17-2015"
+  },
+  {
+    "Submission Date": "2015-10-08 15:58:45",
+    "First name": "Ace",
+    "Last name": "Escobedo",
+    "High school": "Regis Jesuit",
+    "HS graduation year": 2016,
+    "Sport": "Football",
+    "Position": "DL",
+    "Height": "6-3",
+    "Weight": 270,
+    "College": "Pennsylvania",
+    "Division": "NCAA D-1",
+    "Commitment": "Verbal",
+    "Date of commitment": "08-19-2015"
+  },
+  {
+    "Submission Date": "2015-10-08 16:00:58",
+    "First name": "Luke",
+    "Last name": "Neff",
+    "High school": "Arvada West",
+    "HS graduation year": 2016,
+    "Sport": "Basketball (boys)",
+    "Position": "Combo guard",
+    "Height": "6-0",
+    "Weight": 145,
+    "College": "Universtiy of Denver",
+    "Division": "NCAA D-1",
+    "Commitment": "Verbal",
+    "Date of commitment": "06-30-2015"
+  },
+  {
+    "Submission Date": "2015-10-08 16:58:54",
+    "First name": "Kobi",
+    "Last name": "Betts",
+    "High school": "Pueblo Central",
+    "HS graduation year": 2016,
+    "Sport": "Basketball (boys)",
+    "Position": "PG/SG",
+    "Height": "6-4",
+    "Weight": 185,
+    "College": "Air Force Academy",
+    "Division": "NCAA D-1",
+    "Commitment": "Verbal",
+    "Date of commitment": "08-19-2015"
+  },
+  {
+    "Submission Date": "2015-10-08 17:00:32",
+    "First name": "Justinian",
+    "Last name": "Jessup",
+    "High school": "Longmont",
+    "HS graduation year": 2016,
+    "Sport": "Basketball (boys)",
+    "Position": "SG",
+    "Height": "6-4",
+    "Weight": 180,
+    "College": "Boise State",
+    "Division": "NCAA D-1",
+    "Commitment": "Verbal",
+    "Date of commitment": "09-12-2015"
   }
 ]

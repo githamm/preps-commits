@@ -158,10 +158,10 @@ li {
   }
 }
 
-@media screen and (max-width: 750px) {
-    #ad-space {
-        display: none !important;
-    }
+@media screen and (max-width: 900px) {
+  #banner-ad {
+    display: none !important;
+  }
 }
 
 /* ----------------------------- Adverts ----------------------------- */
@@ -217,4 +217,8 @@ li {
 .row.adcubes div.adcube-wrap > div {
     width:300px;
     margin:0 auto;
+}
+#banner-ad {
+  margin-top: 15px;
+  margin-bottom: 35px;
 }
