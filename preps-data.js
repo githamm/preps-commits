@@ -12,7 +12,8 @@
     "College": "University of the South Sewanee",
     "Division": "NCAA D-3",
     "Commitment": "Verbal",
-    "Date of commitment": 0
+    "Date of commitment": 0,
+    "": 0
   },
   {
     "Submission Date": "2015-07-01 20:59:05",
@@ -27,7 +28,8 @@
     "College": "Sacred Heart",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": 0
+    "Date of commitment": 0,
+    "": 0
   },
   {
     "Submission Date": "2015-07-02 08:30:54",
@@ -42,7 +44,8 @@
     "College": "Notre Dame",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "07-01-2014"
+    "Date of commitment": "07-01-2014",
+    "": 0
   },
   {
     "Submission Date": "2015-07-02 09:18:16",
@@ -57,7 +60,8 @@
     "College": "CSU-Pueblo",
     "Division": "NCAA D-2",
     "Commitment": "Signed Letter of Intent",
-    "Date of commitment": "11-24-2014"
+    "Date of commitment": "11-24-2014",
+    "": 0
   },
   {
     "Submission Date": "2015-07-02 09:21:22",
@@ -72,7 +76,8 @@
     "College": "CSU-Pueblo",
     "Division": "NCAA D-2",
     "Commitment": "Signed Letter of Intent",
-    "Date of commitment": "11-24-2014"
+    "Date of commitment": "11-24-2014",
+    "": 0
   },
   {
     "Submission Date": "2015-07-02 09:25:31",
@@ -87,7 +92,8 @@
     "College": "CSU-Pueblo",
     "Division": "NCAA D-2",
     "Commitment": "Signed Letter of Intent",
-    "Date of commitment": "11-24-2014"
+    "Date of commitment": "11-24-2014",
+    "": 0
   },
   {
     "Submission Date": "2015-07-02 09:27:36",
@@ -102,7 +108,8 @@
     "College": "CSU-Pueblo",
     "Division": "NCAA D-2",
     "Commitment": "Verbal",
-    "Date of commitment": "05-01-2015"
+    "Date of commitment": "05-01-2015",
+    "": 0
   },
   {
     "Submission Date": "2015-07-02 13:13:35",
@@ -117,7 +124,8 @@
     "College": "Otero Junior College",
     "Division": "JUCO",
     "Commitment": "Signed Letter of Intent",
-    "Date of commitment": "03-20-2015"
+    "Date of commitment": "03-20-2015",
+    "": 0
   },
   {
     "Submission Date": "2015-07-02 16:37:46",
@@ -132,7 +140,8 @@
     "College": "Fort Lewis College",
     "Division": "NCAA D-2",
     "Commitment": "Signed Letter of Intent",
-    "Date of commitment": "01-21-2015"
+    "Date of commitment": "01-21-2015",
+    "": 0
   },
   {
     "Submission Date": "2015-07-02 17:07:52",
@@ -147,7 +156,8 @@
     "College": "Sioux Falls",
     "Division": "NCAA D-2",
     "Commitment": "Verbal",
-    "Date of commitment": "06-23-2015"
+    "Date of commitment": "06-23-2015",
+    "": 0
   },
   {
     "Submission Date": "2015-07-02 20:13:59",
@@ -162,7 +172,8 @@
     "College": "Lafayette College",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "11-02-2014"
+    "Date of commitment": "11-02-2014",
+    "": 0
   },
   {
     "Submission Date": "2015-07-07 14:09:26",
@@ -177,7 +188,8 @@
     "College": "CSU-Pueblo",
     "Division": "NCAA D-2",
     "Commitment": "Verbal",
-    "Date of commitment": "05-27-2015"
+    "Date of commitment": "05-27-2015",
+    "": 0
   },
   {
     "Submission Date": "2015-07-09 13:37:35",
@@ -192,7 +204,8 @@
     "College": "Colby Community College",
     "Division": "JUCO",
     "Commitment": "Signed Letter of Intent",
-    "Date of commitment": "04-24-2015"
+    "Date of commitment": "04-24-2015",
+    "": 0
   },
   {
     "Submission Date": "2015-07-10 16:49:21",
@@ -207,7 +220,8 @@
     "College": "Tulane",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "07-09-2015"
+    "Date of commitment": "07-09-2015",
+    "": 0
   },
   {
     "Submission Date": "2015-07-10 19:18:47",
@@ -222,7 +236,8 @@
     "College": "University of Denver",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "08-05-2014"
+    "Date of commitment": "08-05-2014",
+    "": 0
   },
   {
     "Submission Date": "7/17/2015 13:56:38",
@@ -237,7 +252,8 @@
     "College": "Loras College",
     "Division": "NCAA D-3",
     "Commitment": "Verbal",
-    "Date of commitment": "05-05-2015"
+    "Date of commitment": "05-05-2015",
+    "": 0
   },
   {
     "Submission Date": "7/19/2015 12:40:02",
@@ -252,7 +268,8 @@
     "College": "West Point",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "12-01-2014"
+    "Date of commitment": "12-01-2014",
+    "": 0
   },
   {
     "Submission Date": "8/3/2015 13:13:15",
@@ -267,7 +284,8 @@
     "College": "Garden City Community College",
     "Division": "JUCO",
     "Commitment": "Signed Letter of Intent",
-    "Date of commitment": "06-18-2015"
+    "Date of commitment": "06-18-2015",
+    "": 0
   },
   {
     "Submission Date": "2015-09-05 21:54:24",
@@ -282,7 +300,8 @@
     "College": "Northwest Missouri State",
     "Division": "NCAA D-2",
     "Commitment": "Signed Letter of Intent",
-    "Date of commitment": "07-27-2015"
+    "Date of commitment": "07-27-2015",
+    "": 0
   },
   {
     "Submission Date": "2015-09-07 10:52:54",
@@ -297,7 +316,8 @@
     "College": "Denison",
     "Division": "NCAA D-3",
     "Commitment": "Signed Letter of Intent",
-    "Date of commitment": "03-07-2015"
+    "Date of commitment": "03-07-2015",
+    "": 0
   },
   {
     "Submission Date": "2015-09-09 14:37:23",
@@ -312,7 +332,8 @@
     "College": "Naval Academy",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "04-29-2015"
+    "Date of commitment": "04-29-2015",
+    "": 0
   },
   {
     "Submission Date": "2015-09-09 14:39:20",
@@ -327,7 +348,8 @@
     "College": "Washington",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "09-04-2015"
+    "Date of commitment": "09-04-2015",
+    "": 0
   },
   {
     "Submission Date": "2015-09-14 17:33:45",
@@ -342,7 +364,8 @@
     "College": "Winthrop",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "08-02-2015"
+    "Date of commitment": "08-02-2015",
+    "": 0
   },
   {
     "Submission Date": "2015-09-19 09:57:10",
@@ -354,10 +377,11 @@
     "Position": "Point Guard/Shooting Guard",
     "Height": "5-6",
     "Weight": 127,
-    "College": "Colorado Mesa",
+    "College": "Colorado Mesa University",
     "Division": "NCAA D-2",
     "Commitment": "Verbal",
-    "Date of commitment": "09-09-2015"
+    "Date of commitment": "09-09-2015",
+    "": 0
   },
   {
     "Submission Date": "2015-09-22 21:38:14",
@@ -372,22 +396,8 @@
     "College": "Furman",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "09-03-2015"
-  },
-  {
-    "Submission Date": "2015-09-25 16:47:35",
-    "First name": "Symone",
-    "Last name": "Starks",
-    "High school": "Highlands Ranch",
-    "HS graduation year": 2016,
-    "Sport": "Basketball (girls)",
-    "Position": "Point Guard",
-    "Height": "5-5",
-    "Weight": 138,
-    "College": "Eastern Washington",
-    "Division": "NCAA D-1",
-    "Commitment": "Verbal",
-    "Date of commitment": "09-20-2015"
+    "Date of commitment": "09-03-2015",
+    "": 0
   },
   {
     "Submission Date": "2015-09-29 14:10:05",
@@ -402,7 +412,8 @@
     "College": "Summit Christian College",
     "Division": 0,
     "Commitment": "Signed Letter of Intent",
-    "Date of commitment": "09-29-2015"
+    "Date of commitment": "09-29-2015",
+    "": 0
   },
   {
     "Submission Date": "2015-09-30 13:41:12",
@@ -414,10 +425,11 @@
     "Position": "Forward",
     "Height": "6-0",
     "Weight": 150,
-    "College": "Regis",
+    "College": "Regis University",
     "Division": "NCAA D-2",
     "Commitment": "Verbal",
-    "Date of commitment": "09-14-2015"
+    "Date of commitment": "09-14-2015",
+    "": 0
   },
   {
     "Submission Date": "2015-10-01 22:46:58",
@@ -432,7 +444,8 @@
     "College": "Saint Mary's College",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "08-01-2015"
+    "Date of commitment": "08-01-2015",
+    "": 0
   },
   {
     "Submission Date": "2015-10-07 18:34:44",
@@ -447,7 +460,8 @@
     "College": "Wyoming",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "10-06-2015"
+    "Date of commitment": "10-06-2015",
+    "": 0
   },
   {
     "Submission Date": "2015-10-07 19:35:49",
@@ -462,7 +476,8 @@
     "College": "Wingate",
     "Division": "NCAA D-2",
     "Commitment": "Verbal",
-    "Date of commitment": "09-15-2015"
+    "Date of commitment": "09-15-2015",
+    "": 0
   },
   {
     "Submission Date": "2015-10-07 20:22:58",
@@ -471,13 +486,14 @@
     "High school": "Longmont Christian / Silver Creek",
     "HS graduation year": 2017,
     "Sport": "Golf (boys)",
-    "Position": "na",
+    "Position": 0,
     "Height": "6-2",
     "Weight": 200,
     "College": "University of Denver",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "09-14-2015"
+    "Date of commitment": "09-14-2015",
+    "": 0
   },
   {
     "Submission Date": "2015-10-08 15:14:41",
@@ -492,7 +508,8 @@
     "College": "UCLA",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "05-06-2015"
+    "Date of commitment": "05-06-2015",
+    "": 0
   },
   {
     "Submission Date": "2015-10-08 15:16:55",
@@ -507,7 +524,8 @@
     "College": "Colorado",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "06-02-2015"
+    "Date of commitment": "06-02-2015",
+    "": 0
   },
   {
     "Submission Date": "2015-10-08 15:18:22",
@@ -522,7 +540,8 @@
     "College": "Nebraska",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "06-24-2015"
+    "Date of commitment": "06-24-2015",
+    "": 0
   },
   {
     "Submission Date": "2015-10-08 15:19:32",
@@ -537,7 +556,8 @@
     "College": "Nebraska",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "06-26-2015"
+    "Date of commitment": "06-26-2015",
+    "": 0
   },
   {
     "Submission Date": "2015-10-08 15:20:55",
@@ -552,7 +572,8 @@
     "College": "Virginia",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "06-29-2015"
+    "Date of commitment": "06-29-2015",
+    "": 0
   },
   {
     "Submission Date": "2015-10-08 15:22:21",
@@ -567,7 +588,8 @@
     "College": "Ohio State",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "07-04-2015"
+    "Date of commitment": "07-04-2015",
+    "": 0
   },
   {
     "Submission Date": "2015-10-08 15:24:18",
@@ -582,7 +604,8 @@
     "College": "Colorado State",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "08-04-2015"
+    "Date of commitment": "08-04-2015",
+    "": 0
   },
   {
     "Submission Date": "2015-10-08 15:42:17",
@@ -597,7 +620,8 @@
     "College": "Colorado State",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "07-24-2015"
+    "Date of commitment": "07-24-2015",
+    "": 0
   },
   {
     "Submission Date": "2015-10-08 15:46:32",
@@ -612,7 +636,8 @@
     "College": "Air Force Academy",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "06-24-2015"
+    "Date of commitment": "06-24-2015",
+    "": 0
   },
   {
     "Submission Date": "2015-10-08 15:48:03",
@@ -627,7 +652,8 @@
     "College": "Wyoming",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "06-17-2015"
+    "Date of commitment": "06-17-2015",
+    "": 0
   },
   {
     "Submission Date": "2015-10-08 15:50:02",
@@ -642,7 +668,8 @@
     "College": "Harvard",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "03-25-2015"
+    "Date of commitment": "03-25-2015",
+    "": 0
   },
   {
     "Submission Date": "2015-10-08 15:53:08",
@@ -657,7 +684,8 @@
     "College": "Northern Colorado",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "06-17-2015"
+    "Date of commitment": "06-17-2015",
+    "": 0
   },
   {
     "Submission Date": "2015-10-08 15:58:45",
@@ -672,7 +700,8 @@
     "College": "Pennsylvania",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "08-19-2015"
+    "Date of commitment": "08-19-2015",
+    "": 0
   },
   {
     "Submission Date": "2015-10-08 16:00:58",
@@ -687,7 +716,8 @@
     "College": "Universtiy of Denver",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "06-30-2015"
+    "Date of commitment": "06-30-2015",
+    "": 0
   },
   {
     "Submission Date": "2015-10-08 16:58:54",
@@ -702,7 +732,8 @@
     "College": "Air Force Academy",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "08-19-2015"
+    "Date of commitment": "08-19-2015",
+    "": 0
   },
   {
     "Submission Date": "2015-10-08 17:00:32",
@@ -717,6 +748,647 @@
     "College": "Boise State",
     "Division": "NCAA D-1",
     "Commitment": "Verbal",
-    "Date of commitment": "09-12-2015"
+    "Date of commitment": "09-12-2015",
+    "": 0
+  },
+  {
+    "Submission Date": "2015-10-14 17:44:45",
+    "First name": "Liah",
+    "Last name": "Davis",
+    "High school": "Sand Creek",
+    "HS graduation year": 2016,
+    "Sport": "Basketball (girls)",
+    "Position": "Forward",
+    "Height": "6-2",
+    "Weight": 0,
+    "College": "Colorado State",
+    "Division": "NCAA D-1",
+    "Commitment": "Verbal",
+    "Date of commitment": "10-14-2015",
+    "": 0
+  },
+  {
+    "Submission Date": "2015-10-15 13:17:31",
+    "First name": "Mason",
+    "Last name": "Peterson",
+    "High school": "Longmont",
+    "HS graduation year": 2016,
+    "Sport": "Baseball",
+    "Position": "2B/C",
+    "Height": "5-10",
+    "Weight": 165,
+    "College": "Colorado School of Mines",
+    "Division": "NCAA D-2",
+    "Commitment": "Verbal",
+    "Date of commitment": "10-14-2015",
+    "": 0
+  },
+  {
+    "Submission Date": "2015-10-15 13:21:14",
+    "First name": "Oliana",
+    "Last name": "Squires",
+    "High school": "Sand Creek",
+    "HS graduation year": 2016,
+    "Sport": "Basketball (girls)",
+    "Position": "Guard",
+    "Height": "5-8",
+    "Weight": 0,
+    "College": "Montana State",
+    "Division": "NCAA D-1",
+    "Commitment": "Verbal",
+    "Date of commitment": "10-12-2015",
+    "": 0
+  },
+  {
+    "Submission Date": "2015-10-15 14:36:08",
+    "First name": "Chadd",
+    "Last name": "Franek",
+    "High school": "Bear Creek",
+    "HS graduation year": 2016,
+    "Sport": "Football",
+    "Position": "TE",
+    "Height": "6-3",
+    "Weight": 200,
+    "College": "CSU-Pueblo",
+    "Division": "NCAA D-2",
+    "Commitment": "Verbal",
+    "Date of commitment": "10-10-2015",
+    "": 0
+  },
+  {
+    "Submission Date": "2015-10-19 18:53:58",
+    "First name": "Elle",
+    "Last name": "Pace",
+    "High school": "Montrose",
+    "HS graduation year": 2016,
+    "Sport": "Basketball (girls)",
+    "Position": "Center",
+    "Height": "6-5",
+    "Weight": 190,
+    "College": "Portland State",
+    "Division": "NCAA D-1",
+    "Commitment": "Verbal",
+    "Date of commitment": "10-05-2015",
+    "": 0
+  },
+  {
+    "Submission Date": "2015-10-19 22:41:01",
+    "First name": "Tori",
+    "Last name": "Catlett",
+    "High school": "Grand Junction",
+    "HS graduation year": 2016,
+    "Sport": "Basketball (girls)",
+    "Position": "Forward",
+    "Height": "6-0",
+    "Weight": 165,
+    "College": "Colorado Mesa University",
+    "Division": "NCAA D-2",
+    "Commitment": "Verbal",
+    "Date of commitment": "10-02-2015",
+    "": 0
+  },
+  {
+    "Submission Date": "2015-10-24 09:47:26",
+    "First name": "Dylan",
+    "Last name": "Nelson",
+    "High school": "D'Evelyn",
+    "HS graduation year": 2016,
+    "Sport": "Baseball",
+    "Position": "1B",
+    "Height": "6-4",
+    "Weight": 230,
+    "College": "Metropolitan State",
+    "Division": "NCAA D-2",
+    "Commitment": "Verbal",
+    "Date of commitment": "10-23-2015",
+    "": 0
+  },
+  {
+    "Submission Date": "2015-10-27 08:18:55",
+    "First name": "Taylor",
+    "Last name": "Dye",
+    "High school": "Columbine",
+    "HS graduation year": 2016,
+    "Sport": "Baseball",
+    "Position": "RHP",
+    "Height": "6-5",
+    "Weight": 200,
+    "College": "Colorado Mesa University",
+    "Division": "NCAA D-2",
+    "Commitment": "Verbal",
+    "Date of commitment": "10-26-2015",
+    "": 0
+  },
+  {
+    "Submission Date": "2015-10-27 11:45:23",
+    "First name": "Riley",
+    "Last name": "Craig",
+    "High school": "Mountain Range",
+    "HS graduation year": 2016,
+    "Sport": "Softball",
+    "Position": "3B",
+    "Height": "5-9",
+    "Weight": 140,
+    "College": "Stony Brook",
+    "Division": "NCAA D-1",
+    "Commitment": "Verbal",
+    "Date of commitment": "11-08-2014",
+    "": 0
+  },
+  {
+    "Submission Date": "2015-10-30 20:16:16",
+    "First name": "Jesse",
+    "Last name": "Smith",
+    "High school": "Legend",
+    "HS graduation year": 2017,
+    "Sport": "Softball",
+    "Position": "OF/1B",
+    "Height": "5-8",
+    "Weight": 138,
+    "College": "University of Tulsa",
+    "Division": "NCAA D-1",
+    "Commitment": "Verbal",
+    "Date of commitment": "10-28-2015",
+    "": 0
+  },
+  {
+    "Submission Date": "2015-11-03 20:55:56",
+    "First name": "Holden",
+    "Last name": "Bernhardt",
+    "High school": "Mountain View",
+    "HS graduation year": 2016,
+    "Sport": "Baseball",
+    "Position": "OF/P",
+    "Height": "6-0",
+    "Weight": 175,
+    "College": "Mesa Community College (AZ)",
+    "Division": "JUCO",
+    "Commitment": "Verbal",
+    "Date of commitment": "10-26-2015",
+    "": "Edit Submission"
+  },
+  {
+    "Submission Date": "2015-11-03 20:56:23",
+    "First name": "Locke",
+    "Last name": "Bernhardt",
+    "High school": "Mountain View",
+    "HS graduation year": 2016,
+    "Sport": "Baseball",
+    "Position": "SS/P",
+    "Height": "6-0",
+    "Weight": 175,
+    "College": "Mesa Community College (AZ)",
+    "Division": "JUCO",
+    "Commitment": "Verbal",
+    "Date of commitment": "10-26-2015",
+    "": "Edit Submission"
+  },
+  {
+    "Submission Date": "2015-11-11 11:38:25",
+    "First name": "Carlo",
+    "Last name": "Kemp",
+    "High school": "Fairview",
+    "HS graduation year": 2016,
+    "Sport": "Football",
+    "Position": "LB/DE",
+    "Height": "6-2",
+    "Weight": 255,
+    "College": "Michigan",
+    "Division": "NCAA D-1",
+    "Commitment": "Verbal",
+    "Date of commitment": "11-08-2015",
+    "": "Edit Submission"
+  },
+  {
+    "Submission Date": "2015-11-11 11:43:11",
+    "First name": "Ashton",
+    "Last name": "Torres",
+    "High school": "Cherokee Trail",
+    "HS graduation year": 2016,
+    "Sport": "Football",
+    "Position": "OL",
+    "Height": "6-5",
+    "Weight": 300,
+    "College": "Montana",
+    "Division": "NCAA D-1",
+    "Commitment": "Verbal",
+    "Date of commitment": "10-29-2015",
+    "": "Edit Submission"
+  },
+  {
+    "Submission Date": "2015-11-11 11:48:54",
+    "First name": "Mackenzie",
+    "Last name": "Forrest",
+    "High school": "Lakewood",
+    "HS graduation year": 2016,
+    "Sport": "Basketball (girls)",
+    "Position": "Guard",
+    "Height": "5-7",
+    "Weight": 0,
+    "College": "Regis University",
+    "Division": "NCAA D-2",
+    "Commitment": "Signed Letter of Intent",
+    "Date of commitment": "11-11-2015",
+    "": "Edit Submission"
+  },
+  {
+    "Submission Date": "2015-11-11 12:10:37",
+    "First name": "Emma",
+    "Last name": "Gerali",
+    "High school": "Lakewood",
+    "HS graduation year": 2016,
+    "Sport": "Volleyball",
+    "Position": "Libero",
+    "Height": "5-6",
+    "Weight": 0,
+    "College": "Campbell University (NC)",
+    "Division": "NCAA D-1",
+    "Commitment": "Signed Letter of Intent",
+    "Date of commitment": "11-11-2015",
+    "": "Edit Submission"
+  },
+  {
+    "Submission Date": "2015-11-11 12:11:55",
+    "First name": "Katie",
+    "Last name": "Thoeny",
+    "High school": "Lakewood",
+    "HS graduation year": 2016,
+    "Sport": "Volleyball",
+    "Position": "DS/L",
+    "Height": "5-7",
+    "Weight": 0,
+    "College": "Chadron State",
+    "Division": "NCAA D-2",
+    "Commitment": "Signed Letter of Intent",
+    "Date of commitment": "11-11-2015",
+    "": "Edit Submission"
+  },
+  {
+    "Submission Date": "2015-11-11 13:06:06",
+    "First name": "Jamie",
+    "Last name": "Nats",
+    "High school": "Mountain Vista",
+    "HS graduation year": 2016,
+    "Sport": "Swimming (girls)",
+    "Position": "Freestyle",
+    "Height": "5-8",
+    "Weight": 0,
+    "College": "Boise State",
+    "Division": "NCAA D-1",
+    "Commitment": "Signed Letter of Intent",
+    "Date of commitment": "11-11-2015",
+    "": "Edit Submission"
+  },
+  {
+    "Submission Date": "2015-11-11 13:06:33",
+    "First name": "Allison",
+    "Last name": "Smith",
+    "High school": "Ponderosa",
+    "HS graduation year": 2016,
+    "Sport": "Volleyball",
+    "Position": "Outside Hitter",
+    "Height": "6-1",
+    "Weight": 155,
+    "College": "Colorado Mesa University",
+    "Division": "NCAA D-2",
+    "Commitment": "Signed Letter of Intent",
+    "Date of commitment": "11-11-2015",
+    "": "Edit Submission"
+  },
+  {
+    "Submission Date": "2015-11-11 13:17:42",
+    "First name": "Taylor",
+    "Last name": "Armitage",
+    "High school": "Berthoud",
+    "HS graduation year": 2016,
+    "Sport": "Softball",
+    "Position": "Pitcher",
+    "Height": "5-9",
+    "Weight": 145,
+    "College": "Regis University",
+    "Division": "NCAA D-2",
+    "Commitment": "Signed Letter of Intent",
+    "Date of commitment": "11-11-2015",
+    "": "Edit Submission"
+  },
+  {
+    "Submission Date": "2015-11-11 13:26:12",
+    "First name": "Lexi",
+    "Last name": "Davis",
+    "High school": "Ponderosa",
+    "HS graduation year": 2016,
+    "Sport": "Lacrosse (girls)",
+    "Position": "D",
+    "Height": 0,
+    "Weight": 0,
+    "College": "Longwood University",
+    "Division": "NCAA D-1",
+    "Commitment": "Signed Letter of Intent",
+    "Date of commitment": "11-11-2015",
+    "": "Edit Submission"
+  },
+  {
+    "Submission Date": "2015-11-11 13:31:58",
+    "First name": "Lauren",
+    "Last name": "Lindell",
+    "High school": "Ponderosa",
+    "HS graduation year": 2016,
+    "Sport": "Tennis (girls)",
+    "Position": "#1 Singles",
+    "Height": "6-0",
+    "Weight": 160,
+    "College": "Fort Hays State University",
+    "Division": "NCAA D-2",
+    "Commitment": "Signed Letter of Intent",
+    "Date of commitment": "11-11-2015",
+    "": "Edit Submission"
+  },
+  {
+    "Submission Date": "2015-11-11 13:37:41",
+    "First name": "Courtney",
+    "Last name": "Roeber",
+    "High school": "Monarch",
+    "HS graduation year": 2016,
+    "Sport": "Swimming (girls)",
+    "Position": "N/A",
+    "Height": 0,
+    "Weight": 0,
+    "College": "Wyoming",
+    "Division": "NCAA D-1",
+    "Commitment": "Signed Letter of Intent",
+    "Date of commitment": "11-11-2015",
+    "": "Edit Submission"
+  },
+  {
+    "Submission Date": "2015-11-11 13:37:56",
+    "First name": "Grant",
+    "Last name": "Schroeder",
+    "High school": "Grandview",
+    "HS graduation year": 2016,
+    "Sport": "Baseball",
+    "Position": "RHP",
+    "Height": "6-2",
+    "Weight": 185,
+    "College": "Arkansas State",
+    "Division": "NCAA D-1",
+    "Commitment": "Signed Letter of Intent",
+    "Date of commitment": "11-11-2015",
+    "": "Edit Submission"
+  },
+  {
+    "Submission Date": "2015-11-11 13:45:45",
+    "First name": "Dan",
+    "Last name": "Boehmier",
+    "High school": "Monarch",
+    "HS graduation year": 2016,
+    "Sport": "Baseball",
+    "Position": "C/3B",
+    "Height": 0,
+    "Weight": 0,
+    "College": "Swarthmore College",
+    "Division": "NCAA D-3",
+    "Commitment": "Verbal",
+    "Date of commitment": "11-11-2015",
+    "": "Edit Submission"
+  },
+  {
+    "Submission Date": "2015-11-11 14:42:28",
+    "First name": "Zach",
+    "Last name": "Sundine",
+    "High school": "Grandview",
+    "HS graduation year": 2016,
+    "Sport": "Baseball",
+    "Position": "LHP",
+    "Height": "5-10",
+    "Weight": 150,
+    "College": "Central Arizona",
+    "Division": "JUCO",
+    "Commitment": "Verbal",
+    "Date of commitment": "10-27-2015",
+    "": "Edit Submission"
+  },
+  {
+    "Submission Date": "2015-11-11 18:54:07",
+    "First name": "Dalton",
+    "Last name": "Robertson",
+    "High school": "Weld Central",
+    "HS graduation year": 2016,
+    "Sport": "Wrestling",
+    "Position": "N/A",
+    "Height": "6-3",
+    "Weight": 180,
+    "College": "Northern Colorado",
+    "Division": "NCAA D-1",
+    "Commitment": "Signed Letter of Intent",
+    "Date of commitment": "11-11-2015",
+    "": "Edit Submission"
+  },
+  {
+    "Submission Date": "2015-11-11 20:19:01",
+    "First name": "Sean",
+    "Last name": "Rooney",
+    "High school": "Valor Christian",
+    "HS graduation year": 2016,
+    "Sport": "Baseball",
+    "Position": "Shortstop",
+    "Height": "6-0",
+    "Weight": 155,
+    "College": "Point Loma Nazarene University",
+    "Division": "NCAA D-2",
+    "Commitment": "Signed Letter of Intent",
+    "Date of commitment": "11-11-2015",
+    "": "Edit Submission"
+  },
+  {
+    "Submission Date": "2015-11-11 22:09:24",
+    "First name": "Tanner",
+    "Last name": "Schoeninger",
+    "High school": "Poudre",
+    "HS graduation year": 2016,
+    "Sport": "Baseball",
+    "Position": "RHP",
+    "Height": "6-3",
+    "Weight": 170,
+    "College": "Colorado Mesa University",
+    "Division": "NCAA D-2",
+    "Commitment": "Signed Letter of Intent",
+    "Date of commitment": "11-03-2015",
+    "": "Edit Submission"
+  },
+  {
+    "Submission Date": "2015-11-12 09:45:57",
+    "First name": "Makayla",
+    "Last name": "Maroney",
+    "High school": "Ponderosa",
+    "HS graduation year": 2016,
+    "Sport": "Volleyball",
+    "Position": "Middle Blocker",
+    "Height": "5-11",
+    "Weight": 140,
+    "College": "University of Bridgeport",
+    "Division": "NCAA D-2",
+    "Commitment": "Signed Letter of Intent",
+    "Date of commitment": "11-11-2015",
+    "": "Edit Submission"
+  },
+  {
+    "Submission Date": "2015-11-12 12:56:54",
+    "First name": "Karli",
+    "Last name": "Baker",
+    "High school": "Fort Morgan",
+    "HS graduation year": 2016,
+    "Sport": "Volleyball",
+    "Position": "Middle Blocker",
+    "Height": "6-0",
+    "Weight": 0,
+    "College": "University of New Orleans",
+    "Division": "NCAA D-1",
+    "Commitment": "Signed Letter of Intent",
+    "Date of commitment": "11-11-2015",
+    "": "Edit Submission"
+  },
+  {
+    "Submission Date": "2015-11-12 21:12:17",
+    "First name": "Camille",
+    "Last name": "Smith",
+    "High school": "Ponderosa",
+    "HS graduation year": 2016,
+    "Sport": "Volleyball",
+    "Position": "Middle Blocker",
+    "Height": "6-0",
+    "Weight": 145,
+    "College": "Colorado Mesa University",
+    "Division": "NCAA D-2",
+    "Commitment": "Signed Letter of Intent",
+    "Date of commitment": "11-11-2015",
+    "": "Edit Submission"
+  },
+  {
+    "Submission Date": "2015-11-12 23:37:50",
+    "First name": "Bri",
+    "Last name": "Stiers",
+    "High school": "Highlands Ranch",
+    "HS graduation year": 2016,
+    "Sport": "Basketball (girls)",
+    "Position": "Stretch 4",
+    "Height": "5-10",
+    "Weight": 150,
+    "College": "University of Missouri-Kansas City",
+    "Division": "NCAA D-1",
+    "Commitment": "Signed Letter of Intent",
+    "Date of commitment": "11-11-2015",
+    "": "Edit Submission"
+  },
+  {
+    "Submission Date": "2015-11-13 16:55:17",
+    "First name": "Symone",
+    "Last name": "Starks",
+    "High school": "Highlands Ranch",
+    "HS graduation year": 2016,
+    "Sport": "Basketball (girls)",
+    "Position": "Point Guard",
+    "Height": "5-4",
+    "Weight": 135,
+    "College": "Eastern Washington University",
+    "Division": "NCAA D-1",
+    "Commitment": "Signed Letter of Intent",
+    "Date of commitment": "11-11-2015",
+    "": "Edit Submission"
+  },
+  {
+    "Submission Date": "2015-11-14 10:34:27",
+    "First name": "Delaney",
+    "Last name": "Elliott",
+    "High school": "Monarch",
+    "HS graduation year": 2016,
+    "Sport": "Golf (girls)",
+    "Position": "Golfer",
+    "Height": "5-4",
+    "Weight": 130,
+    "College": "Montana State University",
+    "Division": "NCAA D-1",
+    "Commitment": "Signed Letter of Intent",
+    "Date of commitment": "11-13-2015",
+    "": "Edit Submission"
+  },
+  {
+    "Submission Date": "2015-11-19 11:28:36",
+    "First name": "Hali",
+    "Last name": "Walters",
+    "High school": "Longmont",
+    "HS graduation year": 2016,
+    "Sport": "Softball",
+    "Position": "Pitcher",
+    "Height": "5-11",
+    "Weight": 155,
+    "College": "Friends University",
+    "Division": "NAIA",
+    "Commitment": "Verbal",
+    "Date of commitment": "11-18-2015",
+    "": "Edit Submission"
+  },
+  {
+    "Submission Date": "2015-11-22 00:50:52",
+    "First name": "Tyler",
+    "Last name": "Smith",
+    "High school": "Grandview",
+    "HS graduation year": 2016,
+    "Sport": "Baseball",
+    "Position": "SS",
+    "Height": "6-0",
+    "Weight": 175,
+    "College": "Ohio",
+    "Division": "NCAA D-1",
+    "Commitment": "Signed Letter of Intent",
+    "Date of commitment": "11-16-2015",
+    "": "Edit Submission"
+  },
+  {
+    "Submission Date": "2015-11-22 11:11:38",
+    "First name": "Sarah",
+    "Last name": "Vang",
+    "High school": "Chaparral",
+    "HS graduation year": 2016,
+    "Sport": "Volleyball",
+    "Position": "Outside Hitter",
+    "Height": "5-11",
+    "Weight": 130,
+    "College": "Southern Utah",
+    "Division": "NCAA D-1",
+    "Commitment": "Signed Letter of Intent",
+    "Date of commitment": "11-16-2015",
+    "": "Edit Submission"
+  },
+  {
+    "Submission Date": "2015-11-25 18:36:17",
+    "First name": "Chad",
+    "Last name": "Kreuzer",
+    "High school": "Monach",
+    "HS graduation year": 2016,
+    "Sport": "Lacrosse (boys)",
+    "Position": "Midfield",
+    "Height": "6-1",
+    "Weight": 180,
+    "College": "Furman",
+    "Division": "NCAA D-1",
+    "Commitment": "Signed Letter of Intent",
+    "Date of commitment": "11-13-2015",
+    "": "Edit Submission"
+  },
+  {
+    "Submission Date": "2015-12-03 13:32:09",
+    "First name": "Taylor",
+    "Last name": "Rusk",
+    "High school": "ThunderRidge",
+    "HS graduation year": 2016,
+    "Sport": "Basketball (girls)",
+    "Position": "Guard",
+    "Height": "5-11",
+    "Weight": 140,
+    "College": "Wyoming",
+    "Division": "NCAA D-1",
+    "Commitment": "Signed Letter of Intent",
+    "Date of commitment": "11-11-2015",
+    "": "Edit Submission"
   }
 ]
