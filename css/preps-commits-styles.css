@@ -127,17 +127,21 @@ div.rss-panel {
 }
 
 div.pagination {
-  letter-spacing: 20px;
   margin: 10px 0 -13px 0 !important;
 }
+li.footable-page, li.footable-page-arrow {
+  padding-right: 10px;
+  list-style-type: none;
+  display: inline;
+}
 
-ul {
+/* ul {
   list-style-type: none;
 }
 
 li {
   display: inline;
-}
+} */
 
 /* -------------------------- Media Queries ------------------------- */
 
